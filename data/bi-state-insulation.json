@@ -1,0 +1,262 @@
+{
+ "acento": "#ECBA16",
+ "empresa": "bi-state-insulation",
+ "logo": "media/bi-state-insulation/logo.png",
+ "nombre": "Bi State Insulation",
+ "piezas": [
+  {
+   "archivos": [
+    {
+     "etiqueta": "Reel 9:16",
+     "formato": "9:16",
+     "poster": "media/bi-state-insulation/A1/v3-1.poster.jpg",
+     "src": "media/bi-state-insulation/A1/v3-1.mp4",
+     "thumb": "media/bi-state-insulation/A1/v3-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/bi-state-insulation/A1/v3-1.mp4"
+    }
+   ],
+   "copy": {
+    "instagram": "EV battery plants. Data centers. Automotive plants. Mechanical insulation for critical facilities — since 1999. Free quote: (314) 353-5400",
+    "linkedin": "We insulate EV battery plants, data centers and automotive plants. Bi State Insulation — mechanical insulation for critical facilities since 1999. ISN certified, nationally bonded. (314) 353-5400 · bistateinsulation.com"
+   },
+   "estado_base": "aceptada",
+   "id": "A1",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "animacion",
+   "titulo": "Sectors — reel 9:16",
+   "version": 3
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Reel 9:16",
+     "formato": "9:16",
+     "poster": "media/bi-state-insulation/A2/v1-1.poster.jpg",
+     "src": "media/bi-state-insulation/A2/v1-1.mp4",
+     "thumb": "media/bi-state-insulation/A2/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/bi-state-insulation/A2/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "instagram": "Energy savings. Industrial noise control. OSHA, state and regional compliance. Removable insulated blankets, made in-house in St. Louis. Get a free quote: (314) 353-5400",
+    "linkedin": "Removable insulated blankets for energy savings, industrial noise control and compliance with OSHA, state and regional regulations, made in-house in St. Louis. Get a free quote: (314) 353-5400 · bistateinsulation.com/services/blanket-shop"
+   },
+   "estado_base": "pendiente",
+   "id": "A2",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "animacion",
+   "titulo": "Blanket shop benefits — reel 9:16",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Letter 8.5x11",
+     "formato": "carta",
+     "src": "media/bi-state-insulation/F1/v3-1.jpg",
+     "thumb": "media/bi-state-insulation/F1/v3-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/F1/v3-1.web.jpg"
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "F1",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "flyer",
+   "titulo": "Services flyer — letter",
+   "version": 3
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Letter 8.5x11",
+     "formato": "carta",
+     "src": "media/bi-state-insulation/F2/v1-1.jpg",
+     "thumb": "media/bi-state-insulation/F2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/F2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {},
+   "estado_base": "pendiente",
+   "id": "F2",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "flyer",
+   "titulo": "Blanket shop flyer — letter",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/bi-state-insulation/I1/v3-1.jpg",
+     "thumb": "media/bi-state-insulation/I1/v3-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/I1/v3-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Piping, jacketing, removable blankets and equipment insulation — one contractor for the whole system. Bi-State Insulation, St. Louis, since 1999. Request a free quote: (314) 353-5400 · bistateinsulation.com",
+    "instagram": "Piping, jacketing, removable blankets and equipment insulation — one contractor for the whole system. Request a free quote: (314) 353-5400"
+   },
+   "estado_base": "aceptada",
+   "id": "I1",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Whole system — feed",
+   "version": 3
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/bi-state-insulation/I2/v3-1.jpg",
+     "thumb": "media/bi-state-insulation/I2/v3-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/I2/v3-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Industrial and commercial mechanical insulation and lagging, from St. Louis across the Midwest, since 1999. Request a free quote: (314) 353-5400 · bistateinsulation.com",
+    "instagram": "Industrial and commercial mechanical insulation and lagging, from St. Louis to the Midwest, since 1999. Free quote: (314) 353-5400"
+   },
+   "estado_base": "aceptada",
+   "id": "I2",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Since 1999 — feed",
+   "version": 3
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 1:1",
+     "formato": "1:1",
+     "src": "media/bi-state-insulation/L1/v2-1.jpg",
+     "thumb": "media/bi-state-insulation/L1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/L1/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Battery plants, data centers and manufacturing facilities can't afford downtime. Bi-State Insulation delivers industrial and commercial mechanical insulation — piping, equipment and jacketing — across the Midwest since 1999. Request a free quote: (314) 353-5400 · bistateinsulation.com"
+   },
+   "estado_base": "ajustar",
+   "id": "L1",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "linkedin",
+   "titulo": "Critical facilities — LinkedIn",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 1:1",
+     "formato": "1:1",
+     "src": "media/bi-state-insulation/L2/v2-1.jpg",
+     "thumb": "media/bi-state-insulation/L2/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/L2/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "From EV battery plants to data centers, automotive manufacturing and commercial buildings, Bi-State Insulation keeps critical systems insulated, jacketed and running. ISN certified and nationally bonded. (314) 353-5400 · bistateinsulation.com"
+   },
+   "estado_base": "aceptada",
+   "id": "L2",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "linkedin",
+   "titulo": "Industries we serve — LinkedIn",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5",
+     "formato": "4:5",
+     "src": "media/bi-state-insulation/L3/v3-1.jpg",
+     "thumb": "media/bi-state-insulation/L3/v3-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/L3/v3-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Safety isn’t just a checklist for us — it’s ingrained in our culture. Bi-State Insulation is ISN certified and nationally bonded, delivering mechanical insulation since 1999. (314) 353-5400 · bistateinsulation.com"
+   },
+   "estado_base": "aceptada",
+   "id": "L3",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "linkedin",
+   "titulo": "Safety culture — LinkedIn",
+   "version": 3
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5",
+     "formato": "4:5",
+     "src": "media/bi-state-insulation/L4/v1-1.jpg",
+     "thumb": "media/bi-state-insulation/L4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/L4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Custom solutions for your facility, made in-house in St. Louis. Bi-State Insulation designs and builds removable insulated blankets that are resistant to high temperatures and corrosion: durable, high-efficiency blankets that keep your facility operating at optimal levels. Get a free quote: (314) 353-5400 · bistateinsulation.com/services/blanket-shop"
+   },
+   "estado_base": "pendiente",
+   "id": "L4",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "linkedin",
+   "titulo": "Blanket shop: custom, made in-house — LinkedIn",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 1:1",
+     "formato": "1:1",
+     "src": "media/bi-state-insulation/L5/v1-1.jpg",
+     "thumb": "media/bi-state-insulation/L5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/L5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Removable and reusable. Our insulated blankets come off and go back on: built for years of service and many removal/reinstallation cycles. Securement options: Velcro, ring & strap or lacing hooks, plus metal tag identifiers so a blanket can be tracked and remade if lost or damaged. Made in-house in St. Louis. Get a free quote: (314) 353-5400 · bistateinsulation.com/services/blanket-shop"
+   },
+   "estado_base": "pendiente",
+   "id": "L5",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "linkedin",
+   "titulo": "Blanket shop: removable & reusable — LinkedIn",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5",
+     "formato": "4:5",
+     "src": "media/bi-state-insulation/L6/v1-1.jpg",
+     "thumb": "media/bi-state-insulation/L6/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/bi-state-insulation/L6/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "How we build removable insulated blankets: designed with 3D CAD, cut on a precision CNC cutting machine, sewn by experienced technicians, with a 360-degree inspection. Made in-house in St. Louis. Get a free quote: (314) 353-5400 · bistateinsulation.com/services/blanket-shop"
+   },
+   "estado_base": "pendiente",
+   "id": "L6",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "linkedin",
+   "titulo": "Blanket shop: 3D CAD + CNC precision — LinkedIn",
+   "version": 1
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "acento": "#F2A900",
+ "empresa": "demo",
+ "logo": "media/demo/logo.png",
+ "nombre": "Acme Plumbing Demo",
+ "piezas": [
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/demo/D1/v1-1.jpg",
+     "thumb": "media/demo/D1/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/demo/D1/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Leaky pipe? Fixed today. Book at acmeplumbing.example",
+    "instagram": "Leaky pipe? Fixed today. Call (314) 555-0100."
+   },
+   "estado_base": "aceptada",
+   "id": "D1",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Leaky pipe? Fixed today.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/demo/D2/v2-1.jpg",
+     "thumb": "media/demo/D2/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/demo/D2/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Plans from $75/month Book at acmeplumbing.example",
+    "instagram": "Plans from $75/month Call (314) 555-0100."
+   },
+   "estado_base": "pendiente",
+   "id": "D2",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Plans from $75/month",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/demo/D3/v1-1.jpg",
+     "thumb": "media/demo/D3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/demo/D3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Winter is coming. Is your water heater ready? Book at acmeplumbing.example",
+    "instagram": "Winter is coming. Is your water heater ready? Call (314) 555-0100."
+   },
+   "estado_base": "pendiente",
+   "id": "D3",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Winter is coming. Is your water heater ready?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/demo/D4/v1-1.jpg",
+     "thumb": "media/demo/D4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/demo/D4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Licensed local plumbers, not a call center. Book at acmeplumbing.example",
+    "instagram": "Licensed local plumbers, not a call center. Call (314) 555-0100."
+   },
+   "estado_base": "pendiente",
+   "id": "D4",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Licensed local plumbers, not a call center.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/demo/D5/v1-1.jpg",
+     "thumb": "media/demo/D5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/demo/D5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Plumbing problem? Same-day help. Book at acmeplumbing.example",
+    "instagram": "Plumbing problem? Same-day help. Call (314) 555-0100."
+   },
+   "estado_base": "pendiente",
+   "id": "D5",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Plumbing problem? Same-day help.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5",
+     "formato": "4:5",
+     "src": "media/demo/D6/v1-1.jpg",
+     "thumb": "media/demo/D6/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/demo/D6/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Put your plumbing on a plan: our maintenance plan is $75/month. Call (314) 555-0100 or visit acmeplumbing.example.",
+    "instagram": "Put your plumbing on a plan. The Acme Plumbing Demo maintenance plan is $75/month. Call (314) 555-0100 or visit acmeplumbing.example."
+   },
+   "estado_base": "pendiente",
+   "id": "D6",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "imagen",
+   "titulo": "Put your plumbing on a plan. — Maintenance plan $75/month (feed 4:5)",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Reel 9:16",
+     "formato": "9:16",
+     "poster": "media/demo/D7/v1-1.poster.jpg",
+     "src": "media/demo/D7/v1-1.mp4",
+     "thumb": "media/demo/D7/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/demo/D7/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Put your plumbing on a plan: our maintenance plan is $75/month. Call (314) 555-0100 or visit acmeplumbing.example.",
+    "instagram": "Put your plumbing on a plan. The Acme Plumbing Demo maintenance plan is $75/month. Call (314) 555-0100 or visit acmeplumbing.example.",
+    "tiktok": "Put your plumbing on a plan. Maintenance plan: $75/month. Call (314) 555-0100 or visit acmeplumbing.example."
+   },
+   "estado_base": "pendiente",
+   "id": "D7",
+   "semana": "Adds 09-21-2026 a 09-27-2026",
+   "tipo": "animacion",
+   "titulo": "Put your plumbing on a plan. — Maintenance plan $75/month (Reel 9:16)",
+   "version": 1
+  }
+ ]
+}

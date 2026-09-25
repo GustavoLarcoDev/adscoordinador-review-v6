@@ -1,0 +1,54 @@
+[
+ {
+  "acento": "#F2A900",
+  "counts": {
+   "aceptada": 1,
+   "ajustar": 0,
+   "pendiente": 6,
+   "rechazada": 0,
+   "total": 7
+  },
+  "id": "demo",
+  "logo": "media/demo/logo.png",
+  "nombre": "Acme Plumbing Demo"
+ },
+ {
+  "acento": "#6EC8E6",
+  "counts": {
+   "aceptada": 32,
+   "ajustar": 0,
+   "pendiente": 0,
+   "rechazada": 0,
+   "total": 32
+  },
+  "id": "simplicity",
+  "logo": "media/simplicity/logo.png",
+  "nombre": "Simplicity Software"
+ },
+ {
+  "acento": "#F5C242",
+  "counts": {
+   "aceptada": 26,
+   "ajustar": 0,
+   "pendiente": 0,
+   "rechazada": 0,
+   "total": 26
+  },
+  "id": "poocrew",
+  "logo": "media/poocrew/logo.png",
+  "nombre": "Max's Poo Crew"
+ },
+ {
+  "acento": "#ECBA16",
+  "counts": {
+   "aceptada": 6,
+   "ajustar": 1,
+   "pendiente": 5,
+   "rechazada": 0,
+   "total": 12
+  },
+  "id": "bi-state-insulation",
+  "logo": "media/bi-state-insulation/logo.png",
+  "nombre": "Bi State Insulation"
+ }
+]

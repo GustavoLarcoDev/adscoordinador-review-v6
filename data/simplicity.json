@@ -1,0 +1,747 @@
+{
+ "acento": "#6EC8E6",
+ "empresa": "simplicity",
+ "logo": "media/simplicity/logo.png",
+ "nombre": "Simplicity Software",
+ "piezas": [
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G1/v2-1.jpg",
+     "thumb": "media/simplicity/G1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G1/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/G1/v2-2.jpg",
+     "thumb": "media/simplicity/G1/v2-2.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G1/v2-2.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "We received the MSP Award 2025 for Best use of AI Technology. The goal stays the same: simpler IT for your business.",
+    "instagram": "We received the MSP Award 2025 for Best use of AI Technology. The goal stays the same: simpler IT for your business."
+   },
+   "estado_base": "aceptada",
+   "id": "G1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Best use of AI Technology",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/G2/v2-1.jpg",
+     "thumb": "media/simplicity/G2/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G2/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G2/v2-2.jpg",
+     "thumb": "media/simplicity/G2/v2-2.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G2/v2-2.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Technology problems don't keep office hours. Simplicity Software offers 24/7 support.",
+    "instagram": "Technology problems don't keep office hours. Simplicity Software offers 24/7 support."
+   },
+   "estado_base": "aceptada",
+   "id": "G2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Still on call after hours",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G3/v1-1.jpg",
+     "thumb": "media/simplicity/G3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "If you're the one fixing every tech problem, you're doing two jobs. Hand that job to a team that does it every day.",
+    "instagram": "If you're the one fixing every tech problem, you're doing two jobs. Hand that job to a team that does it every day."
+   },
+   "estado_base": "aceptada",
+   "id": "G3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "You’re not the IT department",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G4/v1-1.jpg",
+     "thumb": "media/simplicity/G4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "When the spreadsheet becomes the system, work slows down. We build custom web and mobile software for growing businesses.",
+    "instagram": "When the spreadsheet becomes the system, work slows down. We build custom web and mobile software for growing businesses."
+   },
+   "estado_base": "aceptada",
+   "id": "G4",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Outgrown your spreadsheets?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/simplicity/G5/v1-1.jpg",
+     "thumb": "media/simplicity/G5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Your spreadsheets got you this far. Custom software can take you further.",
+    "instagram": "Your spreadsheets got you this far. Custom software can take you further."
+   },
+   "estado_base": "aceptada",
+   "id": "G5",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Outgrown your spreadsheets? (story)",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "poster": "media/simplicity/H2/v2-1.poster.jpg",
+     "src": "media/simplicity/H2/v2-1.mp4",
+     "thumb": "media/simplicity/H2/v2-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/H2/v2-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Managed Services, Custom Software and Microsoft Licensing from one partner. Fewer vendors, less to manage.",
+    "instagram": "Managed Services, Custom Software and Microsoft Licensing from one partner. Fewer vendors, less to manage."
+   },
+   "estado_base": "aceptada",
+   "id": "H2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "animacion",
+   "titulo": "One partner. Less to manage.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "poster": "media/simplicity/H3/v1-1.poster.jpg",
+     "src": "media/simplicity/H3/v1-1.mp4",
+     "thumb": "media/simplicity/H3/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/H3/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "You started a business, not an IT department. Let us handle the technology.",
+    "instagram": "You started a business, not an IT department. Let us handle the technology."
+   },
+   "estado_base": "aceptada",
+   "id": "H3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "animacion",
+   "titulo": "Fixing the printer again?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Letter 8.5 × 11 in",
+     "formato": "carta",
+     "src": "media/simplicity/J1/v2-1.png",
+     "thumb": "media/simplicity/J1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/J1/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "PDF for print",
+     "formato": "carta",
+     "src": "media/simplicity/J1/v2-2.pdf",
+     "thumb": null,
+     "tipo": "pdf",
+     "web": null
+    },
+    {
+     "etiqueta": "Email image",
+     "formato": "carta",
+     "src": "media/simplicity/J1/v2-3.jpg",
+     "thumb": "media/simplicity/J1/v2-3.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/J1/v2-3.web.jpg"
+    }
+   ],
+   "copy": {
+    "email": "Subject: Your IT, software and licensing in one place\n\nMany growing businesses work with one company for IT, another for software and a third for Microsoft licenses. Simplicity Software brings all three together under one partner, so there is less to manage. See the flyer for details, and reach us at (636) 681-4832 or simplicitysoftwarellc.com."
+   },
+   "estado_base": "aceptada",
+   "id": "J1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "flyer",
+   "titulo": "One local partner for your technology",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Half letter 5.5 × 8.5 in",
+     "formato": "otro",
+     "src": "media/simplicity/J2/v5-1.png",
+     "thumb": "media/simplicity/J2/v5-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/J2/v5-1.web.jpg"
+    },
+    {
+     "etiqueta": "PDF for print",
+     "formato": "otro",
+     "src": "media/simplicity/J2/v5-2.pdf",
+     "thumb": null,
+     "tipo": "pdf",
+     "web": null
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "J2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "flyer",
+   "titulo": "Save this number",
+   "version": 5
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/K1/v2-1.jpg",
+     "thumb": "media/simplicity/K1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K1/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Your business has enough to manage. Our Managed Services and 24/7 support look after the technology.",
+    "instagram": "Your business has enough to manage. Our Managed Services and 24/7 support look after the technology."
+   },
+   "estado_base": "aceptada",
+   "id": "K1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Your IT, handled.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K10/v1-1.jpg",
+     "thumb": "media/simplicity/K10/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K10/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Customers expect to get things done online, any time. We build custom web software around what they need.",
+    "instagram": "Customers expect to get things done online, any time. We build custom web software around what they need."
+   },
+   "estado_base": "aceptada",
+   "id": "K10",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Let customers do it online",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K11/v1-1.jpg",
+     "thumb": "media/simplicity/K11/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K11/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "An idea for a web, mobile or AI tool is a good place to start. Tell us about it.",
+    "instagram": "An idea for a web, mobile or AI tool is a good place to start. Tell us about it."
+   },
+   "estado_base": "aceptada",
+   "id": "K11",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Have an app in mind?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K12/v1-1.jpg",
+     "thumb": "media/simplicity/K12/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K12/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "New desk, new license. We license Microsoft 365, Dynamics, Power BI and Azure for growing businesses.",
+    "instagram": "New desk, new license. We license Microsoft 365, Dynamics, Power BI and Azure for growing businesses."
+   },
+   "estado_base": "aceptada",
+   "id": "K12",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "A license for every desk",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K13/v1-1.jpg",
+     "thumb": "media/simplicity/K13/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K13/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Not every business runs nine to five. Our 24/7 support is there early, late and on weekends.",
+    "instagram": "Not every business runs nine to five. Our 24/7 support is there early, late and on weekends."
+   },
+   "estado_base": "aceptada",
+   "id": "K13",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Open early? Closing late?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K14/v1-1.jpg",
+     "thumb": "media/simplicity/K14/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K14/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Custom software can serve your customers, your team, or the repetitive work in between. We build web, mobile and AI tools.",
+    "instagram": "Custom software can serve your customers, your team, or the repetitive work in between. We build web, mobile and AI tools."
+   },
+   "estado_base": "aceptada",
+   "id": "K14",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Three ways software can help",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K15/v1-1.jpg",
+     "thumb": "media/simplicity/K15/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K15/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Microsoft 365, Dynamics, Power BI or Azure: when you have a licensing question, call a team based in Chesterfield.",
+    "instagram": "Microsoft 365, Dynamics, Power BI or Azure: when you have a licensing question, call a team based in Chesterfield."
+   },
+   "estado_base": "aceptada",
+   "id": "K15",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Who do you ask about licenses?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K16/v1-1.jpg",
+     "thumb": "media/simplicity/K16/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K16/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "500+ clients served, and the MSP Award 2025 for Best use of AI Technology.",
+    "instagram": "500+ clients served, and the MSP Award 2025 for Best use of AI Technology."
+   },
+   "estado_base": "aceptada",
+   "id": "K16",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Clients served, and counting",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K17/v1-1.jpg",
+     "thumb": "media/simplicity/K17/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K17/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Fixing IT only when it breaks means working around problems. Managed Services look after your technology day to day.",
+    "instagram": "Fixing IT only when it breaks means working around problems. Managed Services look after your technology day to day."
+   },
+   "estado_base": "aceptada",
+   "id": "K17",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Looked after, not just fixed",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K18/v1-1.jpg",
+     "thumb": "media/simplicity/K18/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K18/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "A tech-savvy friend is great, until they're busy. Our Managed Services team offers 24/7 support.",
+    "instagram": "A tech-savvy friend is great, until they're busy. Our Managed Services team offers 24/7 support."
+   },
+   "estado_base": "aceptada",
+   "id": "K18",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "IT help shouldn’t be a favor",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K19/v1-1.jpg",
+     "thumb": "media/simplicity/K19/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K19/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Off-the-shelf software is built for everyone. We build custom web, mobile and AI software for your business.",
+    "instagram": "Off-the-shelf software is built for everyone. We build custom web, mobile and AI software for your business."
+   },
+   "estado_base": "aceptada",
+   "id": "K19",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Made for everyone, or for you?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K2/v1-1.jpg",
+     "thumb": "media/simplicity/K2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "AI is useful when it takes real work off your team's plate. We build custom AI tools for growing businesses.",
+    "instagram": "AI is useful when it takes real work off your team's plate. We build custom AI tools for growing businesses."
+   },
+   "estado_base": "aceptada",
+   "id": "K2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "AI with a job to do",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K20/v1-1.jpg",
+     "thumb": "media/simplicity/K20/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K20/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Microsoft licensing doesn't have to be a solo project. We license 365, Dynamics, Power BI and Azure.",
+    "instagram": "Microsoft licensing doesn't have to be a solo project. We license 365, Dynamics, Power BI and Azure."
+   },
+   "estado_base": "aceptada",
+   "id": "K20",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Licensing, without going it alone",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K3/v1-1.jpg",
+     "thumb": "media/simplicity/K3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "We license Microsoft 365, Dynamics, Power BI and Azure. Talk to a technology partner based in Chesterfield, MO.",
+    "instagram": "We license Microsoft 365, Dynamics, Power BI and Azure. Talk to a technology partner based in Chesterfield, MO."
+   },
+   "estado_base": "aceptada",
+   "id": "K3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "365. Dynamics. Power BI. Azure.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K4/v1-1.jpg",
+     "thumb": "media/simplicity/K4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Simplicity First is one of our four values, along with Client Partnership, Excellence and Reliability.",
+    "instagram": "Simplicity First is one of our four values, along with Client Partnership, Excellence and Reliability."
+   },
+   "estado_base": "aceptada",
+   "id": "K4",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Simplicity. It’s in the name.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K5/v2-1.jpg",
+     "thumb": "media/simplicity/K5/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K5/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "When tech gets in the way, the whole team slows down. Our Managed Services look after the tools they use daily.",
+    "instagram": "When tech gets in the way, the whole team slows down. Our Managed Services look after the tools they use daily."
+   },
+   "estado_base": "aceptada",
+   "id": "K5",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Is tech slowing your team down?",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K6/v2-1.jpg",
+     "thumb": "media/simplicity/K6/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K6/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "As your business adds people and tools, your IT has to keep up. We help growing businesses stay on top of it.",
+    "instagram": "As your business adds people and tools, your IT has to keep up. We help growing businesses stay on top of it."
+   },
+   "estado_base": "aceptada",
+   "id": "K6",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "IT that grows with you",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K7/v2-1.jpg",
+     "thumb": "media/simplicity/K7/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K7/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Crews, drivers and field staff need more than a desktop. We build custom mobile apps for teams on the move.",
+    "instagram": "Crews, drivers and field staff need more than a desktop. We build custom mobile apps for teams on the move."
+   },
+   "estado_base": "aceptada",
+   "id": "K7",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Built for teams on the move",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K8/v2-1.jpg",
+     "thumb": "media/simplicity/K8/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K8/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Simplicity Software is based at 229 Chesterfield Business Pkwy. IT, custom software and Microsoft licensing, close to home.",
+    "instagram": "Simplicity Software is based at 229 Chesterfield Business Pkwy. IT, custom software and Microsoft licensing, close to home."
+   },
+   "estado_base": "aceptada",
+   "id": "K8",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Right here in Chesterfield",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K9/v1-1.jpg",
+     "thumb": "media/simplicity/K9/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K9/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Start the week with fewer tech problems waiting for you. Our Managed Services look after your everyday technology.",
+    "instagram": "Start the week with fewer tech problems waiting for you. Our Managed Services look after your everyday technology."
+   },
+   "estado_base": "aceptada",
+   "id": "K9",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Fewer Monday morning surprises",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/L1/v2-1.jpg",
+     "thumb": "media/simplicity/L1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/L1/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Most business owners don't choose an IT provider because of an award.\nThey choose one they can trust. So what does an award actually tell you?\n\nSimplicity Software received the MSP Award 2025 for Best use of AI Technology.\n\nFor a growing business, that matters for one simple reason. AI is moving fast, and it's hard to tell what's useful from what's noise. Outside recognition is one signal that a provider is putting AI to work well, not just talking about it.\n\nThe same idea is behind how we describe ourselves. We're not just another managed service provider. A managed service provider looks after your technology. As a Managed Intelligence Provider, we see the job a little wider: looking after your technology and helping you use it, AI included, to make the business simpler to run.\n\nIn practice, that can mean your day-to-day IT, custom web, mobile or AI software, and Microsoft licensing, all with one partner.\n\nThe award is a milestone, not the finish line. The goal is still Simplicity First: fewer things on your plate, so you can focus on your business while we handle your technology.\n\nsimplicitysoftwarellc.com · (636) 681-4832\n\n#ManagedServices #ArtificialIntelligence #SmallBusiness"
+   },
+   "estado_base": "aceptada",
+   "id": "L1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "linkedin",
+   "titulo": "What an award says about your IT provider",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/L2/v1-1.jpg",
+     "thumb": "media/simplicity/L2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/L2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Nobody starts a business to reset passwords.\nYet for a lot of owners, it quietly becomes part of the job.\n\nThe printer stops working before a client meeting. A new hire needs an email account. An update changes something, and nobody knows why.\n\nNone of it is hard on its own. Together, it pulls you away from the work only you can do.\n\nIt rarely shows up on a calendar. It happens in small pieces: between calls, at the end of the day, on a Saturday morning. And time spent on technology is time not spent on customers, your team or where the business goes next.\n\nThat's the work we take off an owner's plate. Managed Services for day-to-day IT. 24/7 support for the things that can't wait. One partner, so there's less to keep track of. We've done this for more than 15 years, with 500+ clients.\n\nSo, a question for the owners reading this: what's one tech task you'd hand off first, if you could?\n\nFocus on your business while we handle your technology.\n\n(636) 681-4832 · simplicitysoftwarellc.com\n\n#SmallBusiness #ManagedServices"
+   },
+   "estado_base": "aceptada",
+   "id": "L2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "linkedin",
+   "titulo": "How much of your week goes to IT?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/L3/v1-1.jpg",
+     "thumb": "media/simplicity/L3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/L3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Spreadsheets are where a lot of good businesses start.\nThey aren't always built for where the business goes next.\n\nA few signs it may be time for something built around how you work:\n\n– The same information lives in more than one place, and nobody is sure which version is current.\n– Only one person really understands how the file works.\n– Your team copies data by hand between tools that don't talk to each other.\n– People work around off-the-shelf software, instead of it working for them.\n– Customers or staff need something on their phones, and a spreadsheet isn't made for that.\n– Simple questions about your own business are hard to answer.\n– You've heard a lot about AI, but you're not sure where it fits in your business.\n\nNone of this means the spreadsheet failed. It usually means the business grew.\n\nThrough our Custom Software service, we build web, mobile and AI tools around the way you already work. The goal is Simplicity First: fewer workarounds, not more technology.\n\nIf a few of these sound familiar, it may be worth a conversation.\n\nsimplicitysoftwarellc.com · (636) 681-4832\n\n#CustomSoftware #SmallBusiness"
+   },
+   "estado_base": "aceptada",
+   "id": "L3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "linkedin",
+   "titulo": "Signs your business has outgrown spreadsheets",
+   "version": 1
+  }
+ ]
+}

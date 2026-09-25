@@ -1,0 +1,1 @@
+window.REVIEW = {"endpoint": "https://script.google.com/macros/s/AKfycbzcxIYq3SCbp5I4z3K5BiXsW5sYPVu7RoLFl4a-o8TrXNJm_-PErsHpe2DGiLpHfz9p/exec", "site": "https://gustavolarcodev.github.io/adscoordinador-review-v6/"};

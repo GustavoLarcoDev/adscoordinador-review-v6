@@ -1,0 +1,597 @@
+{
+ "acento": "#F5C242",
+ "empresa": "poocrew",
+ "logo": "media/poocrew/logo.png",
+ "nombre": "Max's Poo Crew",
+ "piezas": [
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/G1/v1-1.jpg",
+     "thumb": "media/poocrew/G1/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G1/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "For the record: Max is the chocolate one, Simon is the black one. Both know a lot about the problem we fix.\n\nMax’s Poo Crew is dog waste pickup in St. Louis and St. Charles Counties, run by Mike and Gustavo. We come the same day every week, walk the whole yard and take the bags with us.\n\nFirst two cleanups are on us [with any residential plan]. Then plans from $48 a month. No contract.\n\nCall or text (636) 681-4811, or send us a message with how many dogs.",
+    "instagram": "For the record: Max is the chocolate one, Simon is the black one. Both know a lot about the problem we fix.\n\nMax’s Poo Crew is dog waste pickup in St. Louis and St. Charles Counties, run by Mike and Gustavo. We come the same day every week, walk the whole yard and take the bags with us.\n\nFirst two cleanups are on us [with any residential plan]. Then plans from $48 a month. No contract.\n\nCall or text (636) 681-4811, or send us a message with how many dogs."
+   },
+   "estado_base": "aceptada",
+   "id": "G1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Max and Simon.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/G10/v2-1.jpg",
+     "thumb": "media/poocrew/G10/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G10/v2-1.web.jpg"
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "G10",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Max and Simon.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/G11/v1-1.jpg",
+     "thumb": "media/poocrew/G11/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G11/v1-1.web.jpg"
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "G11",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Saturday is yours again.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/G12/v2-1.jpg",
+     "thumb": "media/poocrew/G12/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G12/v2-1.web.jpg"
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "G12",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Max did his part.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/G2/v2-1.jpg",
+     "thumb": "media/poocrew/G2/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G2/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "Story/Reels 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/G2/v2-2.jpg",
+     "thumb": "media/poocrew/G2/v2-2.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G2/v2-2.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Dog waste pickup in St. Louis and St. Charles Counties. First two cleanups are on us [with any residential plan]. No contract.\n\nThen plans from $48 a month, and you can cancel anytime. We walk the grass, the flower beds, the fence line and under the deck, and the bags leave with us.\n\nTell us how many dogs. That is the whole quote. Or call or text (636) 681-4811.",
+    "instagram": "Dog waste pickup in St. Louis and St. Charles Counties. First two cleanups are on us [with any residential plan]. No contract.\n\nThen plans from $48 a month, and you can cancel anytime. We walk the grass, the flower beds, the fence line and under the deck, and the bags leave with us.\n\nTell us how many dogs. That is the whole quote. Or call or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "G2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Two free cleanups.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/G3/v1-1.jpg",
+     "thumb": "media/poocrew/G3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G3/v1-1.web.jpg"
+    },
+    {
+     "etiqueta": "Story/Reels 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/G3/v1-2.jpg",
+     "thumb": "media/poocrew/G3/v1-2.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G3/v1-2.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "We don’t lock you in. We latch the gate. Month to month. First two cleanups are on us [with any residential plan].\n\nDog waste pickup in St. Louis and St. Charles Counties. Plans from $48 a month. We check the gate twice before we leave, every time.\n\nTell us how many dogs. That is the whole quote. Or call or text (636) 681-4811.",
+    "instagram": "We don’t lock you in. We latch the gate. Month to month. First two cleanups are on us [with any residential plan].\n\nDog waste pickup in St. Louis and St. Charles Counties. Plans from $48 a month. We check the gate twice before we leave, every time.\n\nTell us how many dogs. That is the whole quote. Or call or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "G3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "No contract. No catch.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/G4/v1-1.jpg",
+     "thumb": "media/poocrew/G4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Max has the right idea for Saturday.\n\nWe come the same day every week and text you when it’s done. The bags leave with us, not in your trash can. The yard is just ready when you walk out.\n\nPlans from $48 a month, no contract. First two cleanups are on us [with any residential plan].\n\nCall or text (636) 681-4811.",
+    "instagram": "Max has the right idea for Saturday.\n\nWe come the same day every week and text you when it’s done. The bags leave with us, not in your trash can. The yard is just ready when you walk out.\n\nPlans from $48 a month, no contract. First two cleanups are on us [with any residential plan].\n\nCall or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "G4",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Saturday is yours again.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/poocrew/G5/v1-1.jpg",
+     "thumb": "media/poocrew/G5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/G5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Not the open lawn, of course. The bushes.\n\nThat’s why we don’t just walk the grass. We check the flower beds, along the fence and under the deck too. Everything gets bagged and leaves with us, and we latch the gate on the way out.\n\nFirst two cleanups are on us [with any residential plan]. Plans from $48 a month, no contract.\n\nCall or text (636) 681-4811.",
+    "instagram": "Not the open lawn, of course. The bushes.\n\nThat’s why we don’t just walk the grass. We check the flower beds, along the fence and under the deck too. Everything gets bagged and leaves with us, and we latch the gate on the way out.\n\nFirst two cleanups are on us [with any residential plan]. Plans from $48 a month, no contract.\n\nCall or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "G5",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Max did his part.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H10/v2-1.jpg",
+     "thumb": "media/poocrew/H10/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H10/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "If residents keep emailing the board about the common areas, send that email to us instead.\n\nDog waste pickup for HOAs and commercial properties in St. Louis and St. Charles Counties. Each property gets its own quote and the same standard as our residential work: walked, bagged, hauled off.\n\nEmail maxspoocrew@outlook.com with the property address, or call (636) 681-4811.",
+    "instagram": "If residents keep emailing the board about the common areas, send that email to us instead.\n\nDog waste pickup for HOAs and commercial properties in St. Louis and St. Charles Counties. Each property gets its own quote and the same standard as our residential work: walked, bagged, hauled off.\n\nEmail maxspoocrew@outlook.com with the property address, or call (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H10",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Common areas, handled.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/poocrew/H11/v2-1.jpg",
+     "thumb": "media/poocrew/H11/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H11/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Max and Simon don’t pick up after themselves. That’s our job, not yours. Same day every week, no contract.\n\nWe walk the whole yard, bag it and take it with us. Plans from $48 a month. First two cleanups are on us [with any residential plan].\n\nPut the scooper down and call (636) 681-4811.",
+    "instagram": "Max and Simon don’t pick up after themselves. That’s our job, not yours. Same day every week, no contract.\n\nWe walk the whole yard, bag it and take it with us. Plans from $48 a month. First two cleanups are on us [with any residential plan].\n\nPut the scooper down and call (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H11",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "We scoop. You do not.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H12/v2-1.jpg",
+     "thumb": "media/poocrew/H12/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H12/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "It’s a simple trade. You stop picking it up. We start. We come the same day every week and take the bags with us.\n\nNo contract, so you can cancel anytime. First two cleanups are on us [with any residential plan].\n\nSend this to whoever in your house does it now. Or call (636) 681-4811.",
+    "instagram": "It’s a simple trade. You stop picking it up. We start. We come the same day every week and take the bags with us.\n\nNo contract, so you can cancel anytime. First two cleanups are on us [with any residential plan].\n\nSend this to whoever in your house does it now. Or call (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H12",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Not having to do it.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H13/v1-1.jpg",
+     "thumb": "media/poocrew/H13/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H13/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "One dog, weekly: $85 a month. Two dogs: $95. Three: $105. Four or more: $115. Less if we come less often.\n\nTwice a week is an option too. Standard yards up to 1/3 acre. Bigger lots may get their own quote. First two cleanups are on us [with any residential plan].\n\nMessage us how many dogs and we’ll reply with your price. Or call (636) 681-4811.",
+    "instagram": "One dog, weekly: $85 a month. Two dogs: $95. Three: $105. Four or more: $115. Less if we come less often.\n\nTwice a week is an option too. Standard yards up to 1/3 acre. Bigger lots may get their own quote. First two cleanups are on us [with any residential plan].\n\nMessage us how many dogs and we’ll reply with your price. Or call (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H13",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Tell us how many dogs.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/H14/v1-1.jpg",
+     "thumb": "media/poocrew/H14/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H14/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Saturday morning, Sunday afternoon, a regular Tuesday. We’re open 7am to 6pm, every day. Picking up is kind of our thing.\n\nDog waste pickup in St. Louis and St. Charles Counties. Plans from $48 a month, no contract.\n\nCall or text (636) 681-4811, any day, 7am to 6pm.",
+    "instagram": "Saturday morning, Sunday afternoon, a regular Tuesday. We’re open 7am to 6pm, every day. Picking up is kind of our thing.\n\nDog waste pickup in St. Louis and St. Charles Counties. Plans from $48 a month, no contract.\n\nCall or text (636) 681-4811, any day, 7am to 6pm."
+   },
+   "estado_base": "aceptada",
+   "id": "H14",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Seven days a week.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H17/v1-1.jpg",
+     "thumb": "media/poocrew/H17/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H17/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Got a written quote from another company? We’ll beat it by 10%. Conditions apply, and they’re right below.\n\nConditions: comparable service, written quote from a licensed and insured provider within the last 30 days, no promotions or bundles.\n\nDog waste pickup in St. Louis and St. Charles Counties. Plans from $48 a month, no contract.\n\nGot a quote that qualifies? Call or text (636) 681-4811.",
+    "instagram": "Got a written quote from another company? We’ll beat it by 10%. Conditions apply, and they’re right below.\n\nConditions: comparable service, written quote from a licensed and insured provider within the last 30 days, no promotions or bundles.\n\nDog waste pickup in St. Louis and St. Charles Counties. Plans from $48 a month, no contract.\n\nGot a quote that qualifies? Call or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H17",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "We beat any written quote by 10%.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/H19/v1-1.jpg",
+     "thumb": "media/poocrew/H19/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H19/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "You won’t have to remember which day we come. We will. Same crew every time, and a text when it’s done.\n\nPlans from $48 a month, no contract. First two cleanups are on us [with any residential plan].\n\nCall or text (636) 681-4811 to get on the schedule.",
+    "instagram": "You won’t have to remember which day we come. We will. Same crew every time, and a text when it’s done.\n\nPlans from $48 a month, no contract. First two cleanups are on us [with any residential plan].\n\nCall or text (636) 681-4811 to get on the schedule."
+   },
+   "estado_base": "aceptada",
+   "id": "H19",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Same crew, same day, every week.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/poocrew/H22/v2-1.jpg",
+     "thumb": "media/poocrew/H22/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H22/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "No more checking shoes, or paws, at the back door. First two cleanups are on us [with any residential plan].\n\nWeekly visits land on the same day, so the yard doesn’t get a head start on you. Plans from $48 a month, and you can cancel anytime.\n\nFind out which day we’d come. Call or text (636) 681-4811.",
+    "instagram": "No more checking shoes, or paws, at the back door. First two cleanups are on us [with any residential plan].\n\nWeekly visits land on the same day, so the yard doesn’t get a head start on you. Plans from $48 a month, and you can cancel anytime.\n\nFind out which day we’d come. Call or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H22",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "No surprises underfoot.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/poocrew/H23/v1-1.jpg",
+     "thumb": "media/poocrew/H23/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H23/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "You check the collar before every walk. We check your gate before we leave. Twice.\n\nAn open gate is how a good dog ends up three streets over. That’s the part of the visit we don’t rush. First two cleanups are on us [with any residential plan]. No contract, and plans from $48 a month.\n\nGot a dog who tests the gate? Tell us when you call or text: (636) 681-4811.",
+    "instagram": "You check the collar before every walk. We check your gate before we leave. Twice.\n\nAn open gate is how a good dog ends up three streets over. That’s the part of the visit we don’t rush. First two cleanups are on us [with any residential plan]. No contract, and plans from $48 a month.\n\nGot a dog who tests the gate? Tell us when you call or text: (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H23",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Checked twice.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/poocrew/H25/v2-1.jpg",
+     "thumb": "media/poocrew/H25/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H25/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Your first two cleanups are on us [with any residential plan]. That’s plenty of time to find out if you miss doing it yourself.\n\nWhen those are done, plans start at $48 a month with no contract. Dog waste pickup across St. Louis and St. Charles Counties, on the same day every week.\n\nCall or text (636) 681-4811 before you forget.",
+    "instagram": "Your first two cleanups are on us [with any residential plan]. That’s plenty of time to find out if you miss doing it yourself.\n\nWhen those are done, plans start at $48 a month with no contract. Dog waste pickup across St. Louis and St. Charles Counties, on the same day every week.\n\nCall or text (636) 681-4811 before you forget."
+   },
+   "estado_base": "aceptada",
+   "id": "H25",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Your first two cleanups are on us.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/poocrew/H26/v1-1.jpg",
+     "thumb": "media/poocrew/H26/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H26/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Simon goes over the yard nose first. We go over it with a scooper and a stack of bags.\n\nGrass, garden beds, fence line, under the deck. All of it gets bagged and hauled off, and we latch the gate when we leave. Plans from $48 a month. Nothing to sign.\n\nCall or text (636) 681-4811. Simon can keep looking.",
+    "instagram": "Simon goes over the yard nose first. We go over it with a scooper and a stack of bags.\n\nGrass, garden beds, fence line, under the deck. All of it gets bagged and hauled off, and we latch the gate when we leave. Plans from $48 a month. Nothing to sign.\n\nCall or text (636) 681-4811. Simon can keep looking."
+   },
+   "estado_base": "aceptada",
+   "id": "H26",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Nothing left to find.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H28/v2-1.jpg",
+     "thumb": "media/poocrew/H28/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H28/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Max and Simon on a weekly plan would be $95 a month. Max on his own, $85.\n\nOn the weekly plan, each additional dog adds $10 a month, up to $115 for four or more. Prices are for lots up to 1/3 acre. First two cleanups are on us [with any residential plan].\n\nCall or text (636) 681-4811 with the head count. Names optional.",
+    "instagram": "Max and Simon on a weekly plan would be $95 a month. Max on his own, $85.\n\nOn the weekly plan, each additional dog adds $10 a month, up to $115 for four or more. Prices are for lots up to 1/3 acre. First two cleanups are on us [with any residential plan].\n\nCall or text (636) 681-4811 with the head count. Names optional."
+   },
+   "estado_base": "aceptada",
+   "id": "H28",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Two dogs? Same visit.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H3/v1-1.jpg",
+     "thumb": "media/poocrew/H3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Walk across the yard without looking down. First two cleanups are on us [with any residential plan].\n\nWe come the same day every week and check the flower beds and the fence line too. The bags leave with us. Plans from $48 a month, no contract.\n\nGet a price by text: (636) 681-4811.",
+    "instagram": "Walk across the yard without looking down. First two cleanups are on us [with any residential plan].\n\nWe come the same day every week and check the flower beds and the fence line too. The bags leave with us. Plans from $48 a month, no contract.\n\nGet a price by text: (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "A yard you can walk barefoot in.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H5/v1-1.jpg",
+     "thumb": "media/poocrew/H5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "No need to go out and check. You get a text when the yard is done. First two cleanups are on us [with any residential plan].\n\nSame day every week, so you always know when we’re coming. The bags leave with us and the gate gets checked twice. Plans from $48 a month, no contract.\n\nText us first at (636) 681-4811.",
+    "instagram": "No need to go out and check. You get a text when the yard is done. First two cleanups are on us [with any residential plan].\n\nSame day every week, so you always know when we’re coming. The bags leave with us and the gate gets checked twice. Plans from $48 a month, no contract.\n\nText us first at (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H5",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "We text you when it’s done.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/poocrew/H7/v1-1.jpg",
+     "thumb": "media/poocrew/H7/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H7/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Fetch used to go all the way to the fence. First two cleanups are on us [with any residential plan].\n\nWe come the same day every week, walk the whole yard and take the bags with us. Then plans from $48 a month, no contract.\n\nMessage us here, or call or text (636) 681-4811.",
+    "instagram": "Fetch used to go all the way to the fence. First two cleanups are on us [with any residential plan].\n\nWe come the same day every week, walk the whole yard and take the bags with us. Then plans from $48 a month, no contract.\n\nMessage us here, or call or text (636) 681-4811."
+   },
+   "estado_base": "aceptada",
+   "id": "H7",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Since the yard stopped being fun",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/poocrew/H8/v1-1.jpg",
+     "thumb": "media/poocrew/H8/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/H8/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Two cleanups to decide if we’re worth keeping. Both are on us [with any residential plan]. No contract after that, either.\n\nAfter that, plans from $48 a month. Same day every week, and we text you when it’s done.\n\nCall or text (636) 681-4811 to set up the first one.",
+    "instagram": "Two cleanups to decide if we’re worth keeping. Both are on us [with any residential plan]. No contract after that, either.\n\nAfter that, plans from $48 a month. Same day every week, and we text you when it’s done.\n\nCall or text (636) 681-4811 to set up the first one."
+   },
+   "estado_base": "aceptada",
+   "id": "H8",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Try us twice.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Letter flyer · 8.5 × 11 in",
+     "formato": "carta",
+     "src": "media/poocrew/R-flyer/v2-1.jpg",
+     "thumb": "media/poocrew/R-flyer/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/R-flyer/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "PDF for print",
+     "formato": "carta",
+     "src": "media/poocrew/R-flyer/v2-2.pdf",
+     "thumb": null,
+     "tipo": "pdf",
+     "web": null
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "R-flyer",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "flyer",
+   "titulo": "Flyer: Two free cleanups.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Rack card · 3.75 × 8.25 in",
+     "formato": "otro",
+     "src": "media/poocrew/R-rack/v2-1.jpg",
+     "thumb": "media/poocrew/R-rack/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/poocrew/R-rack/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "PDF for print",
+     "formato": "otro",
+     "src": "media/poocrew/R-rack/v2-2.pdf",
+     "thumb": null,
+     "tipo": "pdf",
+     "web": null
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "R-rack",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "impreso",
+   "titulo": "Rack card: Two free cleanups.",
+   "version": 2
+  }
+ ]
+}
