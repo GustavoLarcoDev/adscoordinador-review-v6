@@ -1,0 +1,41 @@
+[
+ {
+  "acento": "#6EC8E6",
+  "counts": {
+   "aceptada": 32,
+   "ajustar": 0,
+   "pendiente": 36,
+   "rechazada": 0,
+   "total": 68
+  },
+  "id": "simplicity",
+  "logo": "media/simplicity/logo.png",
+  "nombre": "Simplicity Software"
+ },
+ {
+  "acento": "#F5C242",
+  "counts": {
+   "aceptada": 7,
+   "ajustar": 0,
+   "pendiente": 62,
+   "rechazada": 0,
+   "total": 69
+  },
+  "id": "poocrew",
+  "logo": "media/poocrew/logo.png",
+  "nombre": "Max's Poo Crew"
+ },
+ {
+  "acento": "#ECBA16",
+  "counts": {
+   "aceptada": 6,
+   "ajustar": 1,
+   "pendiente": 45,
+   "rechazada": 0,
+   "total": 52
+  },
+  "id": "bi-state-insulation",
+  "logo": "media/bi-state-insulation/logo.png",
+  "nombre": "Bi State Insulation"
+ }
+]

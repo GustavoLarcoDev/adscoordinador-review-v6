@@ -1,0 +1,1545 @@
+{
+ "acento": "#6EC8E6",
+ "empresa": "simplicity",
+ "logo": "media/simplicity/logo.png",
+ "nombre": "Simplicity Software",
+ "piezas": [
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P32/v1-1.jpg",
+     "thumb": "media/simplicity/P32/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P32/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Who’s asking for your team’s W-2s? Scammers pose as executives by email to get them. Double-check unusual requests before anyone hits send. Questions? (636) 681-4832\n\n#Cybersecurity #Payroll #SmallBusiness",
+    "linkedin": "If an email that looked like it came from you asked payroll for every employee’s W-2, would anyone check first?\n\nThe IRS has warned about this scam for years. Criminals disguise an email to look like it comes from an executive and send it to payroll or human resources, asking for a list of all employees and their Forms W-2. The stolen information is then used to file fake tax returns for refunds. The IRS urges payroll staff to double-check any executive-level or unusual request for W-2s.\n\nRegular security awareness training helps your team spot requests like this. It’s part of Simplicity Software’s cybersecurity services. Questions? (636) 681-4832\n\n#Cybersecurity #Payroll #SmallBusiness #TaxSeason"
+   },
+   "estado_base": "pendiente",
+   "id": "P32",
+   "semana": "Adds 01-04-2027 a 01-10-2027",
+   "tipo": "imagen",
+   "titulo": "Who’s asking for your team’s W-2s?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350 · 9.6 s",
+     "formato": "4:5",
+     "poster": "media/simplicity/P33/v1-1.poster.jpg",
+     "src": "media/simplicity/P33/v1-1.mp4",
+     "thumb": "media/simplicity/P33/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/P33/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Still chasing approvals by email? Automated approvals send each request to the right person and keep a history of the answers. We build workflow automation: (636) 681-4832\n\n#Automation #SmallBusiness #Productivity",
+    "linkedin": "How many approvals are waiting in someone’s inbox right now?\n\nTime-off requests, expense reports and documents that need sign-off can get buried when they travel by email. An automated approval sends each request to the right person, who can answer from Outlook or Microsoft Teams, and keeps a history of the answers. Power Automate, from Microsoft, is one tool that does this.\n\nSimplicity Software builds workflow automation into everyday work, so routine requests keep moving with less chasing. Let’s talk about the approvals your team chases most: (636) 681-4832\n\n#Automation #Microsoft365 #SmallBusiness #Productivity"
+   },
+   "estado_base": "pendiente",
+   "id": "P33",
+   "semana": "Adds 01-04-2027 a 01-10-2027",
+   "tipo": "animacion",
+   "titulo": "Still chasing approvals by email?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P34/v1-1.jpg",
+     "thumb": "media/simplicity/P34/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P34/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Buying a new server this year? See if Azure can run it in the cloud first. You pay for what you use, and we plan and test the move. (636) 681-4832\n\n#Azure #CloudComputing #SmallBusiness",
+    "linkedin": "Is a new server on this year’s budget?\n\nBefore you buy hardware, it’s worth asking whether the work could run in Microsoft Azure instead. Azure can host your servers in the cloud, you pay for what you use, and it can connect to whatever stays in the office.\n\nSimplicity Software starts with an Azure assessment: we review your current setup, map out a migration plan, then carry out and test the move with minimal disruption to your business.\n\nGet an Azure assessment: (636) 681-4832 · simplicitysoftwarellc.com\n\n#Azure #CloudComputing #SmallBusiness #ITPlanning"
+   },
+   "estado_base": "pendiente",
+   "id": "P34",
+   "semana": "Adds 01-04-2027 a 01-10-2027",
+   "tipo": "imagen",
+   "titulo": "Buying a new server this year?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G1/v2-1.jpg",
+     "thumb": "media/simplicity/G1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G1/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/G1/v2-2.jpg",
+     "thumb": "media/simplicity/G1/v2-2.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G1/v2-2.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "We received the MSP Award 2025 for Best use of AI Technology. The goal stays the same: simpler IT for your business.",
+    "instagram": "We received the MSP Award 2025 for Best use of AI Technology. The goal stays the same: simpler IT for your business."
+   },
+   "estado_base": "aceptada",
+   "id": "G1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Best use of AI Technology",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/G2/v2-1.jpg",
+     "thumb": "media/simplicity/G2/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G2/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G2/v2-2.jpg",
+     "thumb": "media/simplicity/G2/v2-2.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G2/v2-2.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Technology problems don't keep office hours. Simplicity Software offers 24/7 support.",
+    "instagram": "Technology problems don't keep office hours. Simplicity Software offers 24/7 support."
+   },
+   "estado_base": "aceptada",
+   "id": "G2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Still on call after hours",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G3/v1-1.jpg",
+     "thumb": "media/simplicity/G3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "If you're the one fixing every tech problem, you're doing two jobs. Hand that job to a team that does it every day.",
+    "instagram": "If you're the one fixing every tech problem, you're doing two jobs. Hand that job to a team that does it every day."
+   },
+   "estado_base": "aceptada",
+   "id": "G3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "You’re not the IT department",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/G4/v1-1.jpg",
+     "thumb": "media/simplicity/G4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "When the spreadsheet becomes the system, work slows down. We build custom web and mobile software for growing businesses.",
+    "instagram": "When the spreadsheet becomes the system, work slows down. We build custom web and mobile software for growing businesses."
+   },
+   "estado_base": "aceptada",
+   "id": "G4",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Outgrown your spreadsheets?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "src": "media/simplicity/G5/v1-1.jpg",
+     "thumb": "media/simplicity/G5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/G5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Your spreadsheets got you this far. Custom software can take you further.",
+    "instagram": "Your spreadsheets got you this far. Custom software can take you further."
+   },
+   "estado_base": "aceptada",
+   "id": "G5",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Outgrown your spreadsheets? (story)",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "poster": "media/simplicity/H2/v2-1.poster.jpg",
+     "src": "media/simplicity/H2/v2-1.mp4",
+     "thumb": "media/simplicity/H2/v2-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/H2/v2-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Managed Services, Custom Software and Microsoft Licensing from one partner. Fewer vendors, less to manage.",
+    "instagram": "Managed Services, Custom Software and Microsoft Licensing from one partner. Fewer vendors, less to manage."
+   },
+   "estado_base": "aceptada",
+   "id": "H2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "animacion",
+   "titulo": "One partner. Less to manage.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Story 9:16 · 1080×1920",
+     "formato": "9:16",
+     "poster": "media/simplicity/H3/v1-1.poster.jpg",
+     "src": "media/simplicity/H3/v1-1.mp4",
+     "thumb": "media/simplicity/H3/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/H3/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "You started a business, not an IT department. Let us handle the technology.",
+    "instagram": "You started a business, not an IT department. Let us handle the technology."
+   },
+   "estado_base": "aceptada",
+   "id": "H3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "animacion",
+   "titulo": "Fixing the printer again?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Letter 8.5 × 11 in",
+     "formato": "carta",
+     "src": "media/simplicity/J1/v2-1.png",
+     "thumb": "media/simplicity/J1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/J1/v2-1.web.jpg"
+    },
+    {
+     "etiqueta": "PDF for print",
+     "formato": "carta",
+     "src": "media/simplicity/J1/v2-2.pdf",
+     "thumb": null,
+     "tipo": "pdf",
+     "web": null
+    },
+    {
+     "etiqueta": "Email image",
+     "formato": "carta",
+     "src": "media/simplicity/J1/v2-3.jpg",
+     "thumb": "media/simplicity/J1/v2-3.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/J1/v2-3.web.jpg"
+    }
+   ],
+   "copy": {
+    "email": "Subject: Your IT, software and licensing in one place\n\nMany growing businesses work with one company for IT, another for software and a third for Microsoft licenses. Simplicity Software brings all three together under one partner, so there is less to manage. See the flyer for details, and reach us at (636) 681-4832 or simplicitysoftwarellc.com."
+   },
+   "estado_base": "aceptada",
+   "id": "J1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "flyer",
+   "titulo": "One local partner for your technology",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Half letter 5.5 × 8.5 in",
+     "formato": "otro",
+     "src": "media/simplicity/J2/v5-1.png",
+     "thumb": "media/simplicity/J2/v5-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/J2/v5-1.web.jpg"
+    },
+    {
+     "etiqueta": "PDF for print",
+     "formato": "otro",
+     "src": "media/simplicity/J2/v5-2.pdf",
+     "thumb": null,
+     "tipo": "pdf",
+     "web": null
+    }
+   ],
+   "copy": {},
+   "estado_base": "aceptada",
+   "id": "J2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "flyer",
+   "titulo": "Save this number",
+   "version": 5
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/K1/v2-1.jpg",
+     "thumb": "media/simplicity/K1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K1/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Your business has enough to manage. Our Managed Services and 24/7 support look after the technology.",
+    "instagram": "Your business has enough to manage. Our Managed Services and 24/7 support look after the technology."
+   },
+   "estado_base": "aceptada",
+   "id": "K1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Your IT, handled.",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K10/v1-1.jpg",
+     "thumb": "media/simplicity/K10/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K10/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Customers expect to get things done online, any time. We build custom web software around what they need.",
+    "instagram": "Customers expect to get things done online, any time. We build custom web software around what they need."
+   },
+   "estado_base": "aceptada",
+   "id": "K10",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Let customers do it online",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K11/v1-1.jpg",
+     "thumb": "media/simplicity/K11/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K11/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "An idea for a web, mobile or AI tool is a good place to start. Tell us about it.",
+    "instagram": "An idea for a web, mobile or AI tool is a good place to start. Tell us about it."
+   },
+   "estado_base": "aceptada",
+   "id": "K11",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Have an app in mind?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K12/v1-1.jpg",
+     "thumb": "media/simplicity/K12/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K12/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "New desk, new license. We license Microsoft 365, Dynamics, Power BI and Azure for growing businesses.",
+    "instagram": "New desk, new license. We license Microsoft 365, Dynamics, Power BI and Azure for growing businesses."
+   },
+   "estado_base": "aceptada",
+   "id": "K12",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "A license for every desk",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K13/v1-1.jpg",
+     "thumb": "media/simplicity/K13/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K13/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Not every business runs nine to five. Our 24/7 support is there early, late and on weekends.",
+    "instagram": "Not every business runs nine to five. Our 24/7 support is there early, late and on weekends."
+   },
+   "estado_base": "aceptada",
+   "id": "K13",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Open early? Closing late?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K14/v1-1.jpg",
+     "thumb": "media/simplicity/K14/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K14/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Custom software can serve your customers, your team, or the repetitive work in between. We build web, mobile and AI tools.",
+    "instagram": "Custom software can serve your customers, your team, or the repetitive work in between. We build web, mobile and AI tools."
+   },
+   "estado_base": "aceptada",
+   "id": "K14",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Three ways software can help",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K15/v1-1.jpg",
+     "thumb": "media/simplicity/K15/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K15/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Microsoft 365, Dynamics, Power BI or Azure: when you have a licensing question, call a team based in Chesterfield.",
+    "instagram": "Microsoft 365, Dynamics, Power BI or Azure: when you have a licensing question, call a team based in Chesterfield."
+   },
+   "estado_base": "aceptada",
+   "id": "K15",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Who do you ask about licenses?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K16/v1-1.jpg",
+     "thumb": "media/simplicity/K16/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K16/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "500+ clients served, and the MSP Award 2025 for Best use of AI Technology.",
+    "instagram": "500+ clients served, and the MSP Award 2025 for Best use of AI Technology."
+   },
+   "estado_base": "aceptada",
+   "id": "K16",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Clients served, and counting",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K17/v1-1.jpg",
+     "thumb": "media/simplicity/K17/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K17/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Fixing IT only when it breaks means working around problems. Managed Services look after your technology day to day.",
+    "instagram": "Fixing IT only when it breaks means working around problems. Managed Services look after your technology day to day."
+   },
+   "estado_base": "aceptada",
+   "id": "K17",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Looked after, not just fixed",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K18/v1-1.jpg",
+     "thumb": "media/simplicity/K18/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K18/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "A tech-savvy friend is great, until they're busy. Our Managed Services team offers 24/7 support.",
+    "instagram": "A tech-savvy friend is great, until they're busy. Our Managed Services team offers 24/7 support."
+   },
+   "estado_base": "aceptada",
+   "id": "K18",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "IT help shouldn’t be a favor",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K19/v1-1.jpg",
+     "thumb": "media/simplicity/K19/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K19/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Off-the-shelf software is built for everyone. We build custom web, mobile and AI software for your business.",
+    "instagram": "Off-the-shelf software is built for everyone. We build custom web, mobile and AI software for your business."
+   },
+   "estado_base": "aceptada",
+   "id": "K19",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Made for everyone, or for you?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K2/v1-1.jpg",
+     "thumb": "media/simplicity/K2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "AI is useful when it takes real work off your team's plate. We build custom AI tools for growing businesses.",
+    "instagram": "AI is useful when it takes real work off your team's plate. We build custom AI tools for growing businesses."
+   },
+   "estado_base": "aceptada",
+   "id": "K2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "AI with a job to do",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K20/v1-1.jpg",
+     "thumb": "media/simplicity/K20/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K20/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Microsoft licensing doesn't have to be a solo project. We license 365, Dynamics, Power BI and Azure.",
+    "instagram": "Microsoft licensing doesn't have to be a solo project. We license 365, Dynamics, Power BI and Azure."
+   },
+   "estado_base": "aceptada",
+   "id": "K20",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Licensing, without going it alone",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K3/v1-1.jpg",
+     "thumb": "media/simplicity/K3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "We license Microsoft 365, Dynamics, Power BI and Azure. Talk to a technology partner based in Chesterfield, MO.",
+    "instagram": "We license Microsoft 365, Dynamics, Power BI and Azure. Talk to a technology partner based in Chesterfield, MO."
+   },
+   "estado_base": "aceptada",
+   "id": "K3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "365. Dynamics. Power BI. Azure.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K4/v1-1.jpg",
+     "thumb": "media/simplicity/K4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Simplicity First is one of our four values, along with Client Partnership, Excellence and Reliability.",
+    "instagram": "Simplicity First is one of our four values, along with Client Partnership, Excellence and Reliability."
+   },
+   "estado_base": "aceptada",
+   "id": "K4",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Simplicity. It’s in the name.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K5/v2-1.jpg",
+     "thumb": "media/simplicity/K5/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K5/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "When tech gets in the way, the whole team slows down. Our Managed Services look after the tools they use daily.",
+    "instagram": "When tech gets in the way, the whole team slows down. Our Managed Services look after the tools they use daily."
+   },
+   "estado_base": "aceptada",
+   "id": "K5",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Is tech slowing your team down?",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K6/v2-1.jpg",
+     "thumb": "media/simplicity/K6/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K6/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "As your business adds people and tools, your IT has to keep up. We help growing businesses stay on top of it.",
+    "instagram": "As your business adds people and tools, your IT has to keep up. We help growing businesses stay on top of it."
+   },
+   "estado_base": "aceptada",
+   "id": "K6",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "IT that grows with you",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K7/v2-1.jpg",
+     "thumb": "media/simplicity/K7/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K7/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Crews, drivers and field staff need more than a desktop. We build custom mobile apps for teams on the move.",
+    "instagram": "Crews, drivers and field staff need more than a desktop. We build custom mobile apps for teams on the move."
+   },
+   "estado_base": "aceptada",
+   "id": "K7",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Built for teams on the move",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K8/v2-1.jpg",
+     "thumb": "media/simplicity/K8/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K8/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Simplicity Software is based at 229 Chesterfield Business Pkwy. IT, custom software and Microsoft licensing, close to home.",
+    "instagram": "Simplicity Software is based at 229 Chesterfield Business Pkwy. IT, custom software and Microsoft licensing, close to home."
+   },
+   "estado_base": "aceptada",
+   "id": "K8",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Right here in Chesterfield",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/K9/v1-1.jpg",
+     "thumb": "media/simplicity/K9/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/K9/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Start the week with fewer tech problems waiting for you. Our Managed Services look after your everyday technology.",
+    "instagram": "Start the week with fewer tech problems waiting for you. Our Managed Services look after your everyday technology."
+   },
+   "estado_base": "aceptada",
+   "id": "K9",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "imagen",
+   "titulo": "Fewer Monday morning surprises",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/L1/v2-1.jpg",
+     "thumb": "media/simplicity/L1/v2-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/L1/v2-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Most business owners don't choose an IT provider because of an award.\nThey choose one they can trust. So what does an award actually tell you?\n\nSimplicity Software received the MSP Award 2025 for Best use of AI Technology.\n\nFor a growing business, that matters for one simple reason. AI is moving fast, and it's hard to tell what's useful from what's noise. Outside recognition is one signal that a provider is putting AI to work well, not just talking about it.\n\nThe same idea is behind how we describe ourselves. We're not just another managed service provider. A managed service provider looks after your technology. As a Managed Intelligence Provider, we see the job a little wider: looking after your technology and helping you use it, AI included, to make the business simpler to run.\n\nIn practice, that can mean your day-to-day IT, custom web, mobile or AI software, and Microsoft licensing, all with one partner.\n\nThe award is a milestone, not the finish line. The goal is still Simplicity First: fewer things on your plate, so you can focus on your business while we handle your technology.\n\nsimplicitysoftwarellc.com · (636) 681-4832\n\n#ManagedServices #ArtificialIntelligence #SmallBusiness"
+   },
+   "estado_base": "aceptada",
+   "id": "L1",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "linkedin",
+   "titulo": "What an award says about your IT provider",
+   "version": 2
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/L2/v1-1.jpg",
+     "thumb": "media/simplicity/L2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/L2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Nobody starts a business to reset passwords.\nYet for a lot of owners, it quietly becomes part of the job.\n\nThe printer stops working before a client meeting. A new hire needs an email account. An update changes something, and nobody knows why.\n\nNone of it is hard on its own. Together, it pulls you away from the work only you can do.\n\nIt rarely shows up on a calendar. It happens in small pieces: between calls, at the end of the day, on a Saturday morning. And time spent on technology is time not spent on customers, your team or where the business goes next.\n\nThat's the work we take off an owner's plate. Managed Services for day-to-day IT. 24/7 support for the things that can't wait. One partner, so there's less to keep track of. We've done this for more than 15 years, with 500+ clients.\n\nSo, a question for the owners reading this: what's one tech task you'd hand off first, if you could?\n\nFocus on your business while we handle your technology.\n\n(636) 681-4832 · simplicitysoftwarellc.com\n\n#SmallBusiness #ManagedServices"
+   },
+   "estado_base": "aceptada",
+   "id": "L2",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "linkedin",
+   "titulo": "How much of your week goes to IT?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "LinkedIn 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/L3/v1-1.jpg",
+     "thumb": "media/simplicity/L3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/L3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "linkedin": "Spreadsheets are where a lot of good businesses start.\nThey aren't always built for where the business goes next.\n\nA few signs it may be time for something built around how you work:\n\n– The same information lives in more than one place, and nobody is sure which version is current.\n– Only one person really understands how the file works.\n– Your team copies data by hand between tools that don't talk to each other.\n– People work around off-the-shelf software, instead of it working for them.\n– Customers or staff need something on their phones, and a spreadsheet isn't made for that.\n– Simple questions about your own business are hard to answer.\n– You've heard a lot about AI, but you're not sure where it fits in your business.\n\nNone of this means the spreadsheet failed. It usually means the business grew.\n\nThrough our Custom Software service, we build web, mobile and AI tools around the way you already work. The goal is Simplicity First: fewer workarounds, not more technology.\n\nIf a few of these sound familiar, it may be worth a conversation.\n\nsimplicitysoftwarellc.com · (636) 681-4832\n\n#CustomSoftware #SmallBusiness"
+   },
+   "estado_base": "aceptada",
+   "id": "L3",
+   "semana": "Adds 09-14-2026 a 09-20-2026",
+   "tipo": "linkedin",
+   "titulo": "Signs your business has outgrown spreadsheets",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/M1/v1-1.jpg",
+     "thumb": "media/simplicity/M1/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/M1/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Would you know if someone got into your network tonight?\n\nSimplicity Software’s cybersecurity service watches your systems 24/7, with threat detection, vulnerability assessments and incident response when something looks wrong. You run the business; we keep an eye on the door.\n\nCall (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#Cybersecurity #ManagedServices #SmallBusiness #SimplicitySoftware",
+    "linkedin": "Would you know if someone got into your network tonight?\n\nSimplicity Software’s cybersecurity service watches your systems 24/7, with threat detection, vulnerability assessments and incident response when something looks wrong. You run the business; we keep an eye on the door.\n\nCall (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#Cybersecurity #ManagedServices #SmallBusiness #SimplicitySoftware"
+   },
+   "estado_base": "pendiente",
+   "id": "M1",
+   "semana": "Adds 10-12-2026 a 10-18-2026",
+   "tipo": "imagen",
+   "titulo": "Would you know if someone got in?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/M2/v1-1.jpg",
+     "thumb": "media/simplicity/M2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/M2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Spilled coffee. A stolen laptop. A server that won’t start. Data loss rarely gives a warning.\n\nSimplicity Software sets up automated backups and disaster recovery for the files your business runs on. When something goes wrong, there’s a way back.\n\nCall (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#DataBackup #DisasterRecovery #ManagedServices #SmallBusiness #SimplicitySoftware",
+    "linkedin": "Spilled coffee. A stolen laptop. A server that won’t start. Data loss rarely gives a warning.\n\nSimplicity Software sets up automated backups and disaster recovery for the files your business runs on. When something goes wrong, there’s a way back.\n\nCall (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#DataBackup #DisasterRecovery #ManagedServices #SmallBusiness #SimplicitySoftware"
+   },
+   "estado_base": "pendiente",
+   "id": "M2",
+   "semana": "Adds 10-12-2026 a 10-18-2026",
+   "tipo": "imagen",
+   "titulo": "Spills happen. Lost files shouldn’t.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P1/v1-1.jpg",
+     "thumb": "media/simplicity/P1/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P1/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "A password is one lock. Two-step sign-in adds a second: a quick check on your phone, so a stolen password is harder to use. It’s Cybersecurity Awareness Month, a good week to switch it on. Need a hand? Call (636) 681-4832.\n\n#Cybersecurity #CybersecurityAwarenessMonth #SmallBusiness",
+    "linkedin": "A password is one lock. Two-step sign-in adds a second.\n\nAfter the password, you confirm the sign-in with a quick check on your phone, such as a code or a fingerprint. If someone steals or guesses the password, there’s still a second step in the way, which makes the account harder to get into.\n\nIt’s Cybersecurity Awareness Month, a good time to switch it on for email and the other accounts your business depends on. If you’d like a hand turning it on across your team, call Simplicity Software at (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#CybersecurityAwarenessMonth #Cybersecurity #SmallBusiness #ManagedServices"
+   },
+   "estado_base": "pendiente",
+   "id": "P1",
+   "semana": "Adds 10-19-2026 a 10-25-2026",
+   "tipo": "imagen",
+   "titulo": "Add a second lock to your logins",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P2/v1-1.jpg",
+     "thumb": "media/simplicity/P2/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P2/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Why us? The short version: 15+ years, 500+ clients, 99.9% uptime and full 24/7 support, from Chesterfield, MO. Questions about your IT? Call (636) 681-4832.\n\n#SmallBusiness #ManagedServices #ChesterfieldMO",
+    "linkedin": "Why Simplicity Software? Here’s the short version, in four numbers.\n\n15+ years as a technology partner for growing businesses. 500+ clients. 99.9% uptime. Full 24/7 support, from our base in Chesterfield, MO.\n\nWe call ourselves a Managed Intelligence Provider: we look after your IT and help you put tools like AI to work. We also received the MSP Award 2025 for Best use of AI Technology.\n\nIf you’re weighing IT partners for next year, we’re happy to talk. (636) 681-4832 · simplicitysoftwarellc.com\n\n#ManagedServices #SmallBusiness #ITSupport #ChesterfieldMO"
+   },
+   "estado_base": "pendiente",
+   "id": "P2",
+   "semana": "Adds 10-19-2026 a 10-25-2026",
+   "tipo": "imagen",
+   "titulo": "Why us? In four numbers.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P3/v1-1.jpg",
+     "thumb": "media/simplicity/P3/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P3/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "When was your last security checkup? A vulnerability assessment shows where your business could be exposed, so you know what needs attention. It’s Cybersecurity Awareness Month: a good time to schedule one. Call (636) 681-4832.\n\n#Cybersecurity #SmallBusiness #CybersecurityAwarenessMonth",
+    "linkedin": "When was the last time someone checked your business for security gaps?\n\nA vulnerability assessment checks your systems for weak spots and shows you where you stand. It replaces guessing with a clear picture of what needs attention.\n\nSimplicity Software provides vulnerability assessments alongside 24/7 security monitoring, threat detection and incident response. Cybersecurity Awareness Month is a good reason to schedule one.\n\nCall (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#Cybersecurity #CybersecurityAwarenessMonth #SmallBusiness #ITSecurity"
+   },
+   "estado_base": "pendiente",
+   "id": "P3",
+   "semana": "Adds 10-19-2026 a 10-25-2026",
+   "tipo": "imagen",
+   "titulo": "When was your last security checkup?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P4/v1-1.jpg",
+     "thumb": "media/simplicity/P4/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P4/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Have an idea for an app or a tool? Here’s how it becomes software with us: discovery, planning, design, development and launch, with ongoing support after. Tell us the idea: (636) 681-4832.\n\n#CustomSoftware #AppDevelopment #SmallBusiness",
+    "linkedin": "Custom software can sound like a leap. In practice, it’s five clear steps.\n\nHere’s how we work at Simplicity Software:\n1. Discovery: your goals and requirements.\n2. Planning: a roadmap, a timeline and the right resources.\n3. Design: the screens your team will use and the system behind them.\n4. Development: built in agile steps, following best practices.\n5. Launch: testing, deployment and ongoing support.\n\nWeb apps, mobile apps and AI tools all follow the same path. If you have an idea, we’d like to hear it.\n\n(636) 681-4832 · simplicitysoftwarellc.com\n\n#CustomSoftware #AppDevelopment #SoftwareDevelopment #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P4",
+   "semana": "Adds 10-26-2026 a 11-01-2026",
+   "tipo": "imagen",
+   "titulo": "How your idea becomes software",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P5/v1-1.jpg",
+     "thumb": "media/simplicity/P5/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P5/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "The clocks fall back this Sunday. Our support doesn’t: Simplicity Software is here 24/7, after dark too. Keep (636) 681-4832 handy for the next time something won’t start.\n\n#ITSupport #SmallBusiness #DaylightSaving",
+    "linkedin": "The clocks fall back this Sunday, and from here on it gets dark early.\n\nShorter days don’t mean shorter support. Simplicity Software provides full 24/7 support, so when a server won’t start at 6 pm or an account gets locked on a Saturday morning, you still have someone to call.\n\nKeep (636) 681-4832 where your team can find it. Before sunrise or after dark, someone answers.\n\n#ITSupport #ManagedServices #SmallBusiness #DaylightSaving"
+   },
+   "estado_base": "pendiente",
+   "id": "P5",
+   "semana": "Adds 10-26-2026 a 11-01-2026",
+   "tipo": "imagen",
+   "titulo": "The clocks fall back. Our support doesn’t.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350 · 9.6 s",
+     "formato": "4:5",
+     "poster": "media/simplicity/P6/v1-1.poster.jpg",
+     "src": "media/simplicity/P6/v1-1.mp4",
+     "thumb": "media/simplicity/P6/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/P6/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Some emails come in costume. Before you click, check who it’s really from. Not sure? Contact them on a number you already know, not the one in the email. Have a safe and happy Halloween weekend.\n\n#Phishing #Cybersecurity #SmallBusiness",
+    "linkedin": "Some emails come in costume, and not just on Halloween.\n\nA phishing email dresses up as your bank or a vendor you work with, and tells a story so you’ll click a link or open an attachment. Two habits help. Check who it’s really from before you click: a sender address that’s slightly off is a common giveaway. If you’re not sure, contact them on a phone number or website you already know, not the details in the email.\n\nIt’s the last week of Cybersecurity Awareness Month. Share this with your team before the weekend.\n\nQuestions? (636) 681-4832 · simplicitysoftwarellc.com\n\n#CybersecurityAwarenessMonth #Phishing #Cybersecurity #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P6",
+   "semana": "Adds 10-26-2026 a 11-01-2026",
+   "tipo": "animacion",
+   "titulo": "Some emails come in costume.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P7/v1-1.jpg",
+     "thumb": "media/simplicity/P7/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P7/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Renewing Microsoft 365 soon? Count your seats first: match every license to someone who still uses it. On some plans, you can only lower the count in a short window after renewal. Want a second pair of eyes? Call (636) 681-4832.\n\n#Microsoft365 #MicrosoftLicensing #SmallBusiness",
+    "linkedin": "Before your Microsoft 365 renewal, count your seats.\n\nList every license you pay for and match each one to someone who still uses it. A license stays on the subscription until someone removes it, even after the person who used it has left. And depending on how you buy Microsoft 365, the chance to lower your license count can be limited to a short window after you renew. That’s why the count matters before the date, not after.\n\nSimplicity Software provides licensing guidance and management for Microsoft 365, Dynamics, Power BI and Azure. If you’d like a second pair of eyes before you renew, call (636) 681-4832 or visit simplicitysoftwarellc.com.\n\n#Microsoft365 #MicrosoftLicensing #SmallBusiness #ITBudget"
+   },
+   "estado_base": "pendiente",
+   "id": "P7",
+   "semana": "Adds 11-02-2026 a 11-08-2026",
+   "tipo": "imagen",
+   "titulo": "Count your seats before you renew",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P8/v1-1.jpg",
+     "thumb": "media/simplicity/P8/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P8/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "IT help, right on your screen: remote assistance, request tracking, user training and 24/7 support from our help desk. Call (636) 681-4832.\n\n#ITSupport #HelpDesk #SmallBusiness",
+    "linkedin": "What if IT help could see what your team is seeing?\n\nThat’s the idea behind remote assistance, part of Simplicity Software’s help desk. Your team calls, and we can connect to their screen and work on the issue remotely. Requests are logged and tracked, user training is part of the service, and support runs 24/7.\n\nFocus on your business while we handle your technology.\n\n(636) 681-4832 · simplicitysoftwarellc.com\n\n#ITSupport #HelpDesk #ManagedServices #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P8",
+   "semana": "Adds 11-02-2026 a 11-08-2026",
+   "tipo": "imagen",
+   "titulo": "IT help, right on your screen.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P9/v1-1.jpg",
+     "thumb": "media/simplicity/P9/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P9/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Ever paid for software your team stopped using? We build custom web and mobile apps designed to be intuitive for the people who use them. Start your project: (636) 681-4832.\n\n#CustomSoftware #AppDevelopment #SmallBusiness",
+    "linkedin": "Ever paid for software your team quietly stopped using?\n\nWhen we build custom web and mobile apps, user experience is part of every project, from the first conversation about your goals to the screens your team uses every day. Then we design, build in steps, test, launch and keep supporting what we build.\n\nHave a process that deserves a better tool? Start your project: (636) 681-4832 · simplicitysoftwarellc.com\n\n#CustomSoftware #AppDevelopment #UserExperience #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P9",
+   "semana": "Adds 11-02-2026 a 11-08-2026",
+   "tipo": "imagen",
+   "titulo": "Software your team will actually use",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P10/v1-1.jpg",
+     "thumb": "media/simplicity/P10/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P10/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Two holiday scams to know: the “missed delivery” text (check the store’s site, not the link) and the urgent gift card request from the “boss” (check with your boss directly, on a number you already know). Gift cards are for gifts, not payments.\n\n#HolidayScams #Cybersecurity #SmallBusiness",
+    "linkedin": "Holiday shopping means more packages, and scammers know it. Two scams to share with your team this week:\n\n1. The “missed delivery” text or email. Don’t use the link. Check the order on the store’s site, or contact the carrier through a number or website you already know.\n2. The urgent gift card request. A message from the “boss” asks someone to buy gift cards, fast. Confirm with them on a number you already know. Gift cards are for gifts, not payments.\n\nWant a refresher for your team? User training is part of our help desk. (636) 681-4832\n\n#Cybersecurity #HolidayScams #ScamAwareness #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P10",
+   "semana": "Adds 11-09-2026 a 11-15-2026",
+   "tipo": "imagen",
+   "titulo": "Two holiday scams your team should know",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350 · 9.6 s",
+     "formato": "4:5",
+     "poster": "media/simplicity/P11/v1-1.poster.jpg",
+     "src": "media/simplicity/P11/v1-1.mp4",
+     "thumb": "media/simplicity/P11/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/P11/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Hand the busywork to AI. We build AI tools and automation into everyday work, so your team spends less time on repetitive tasks. MSP Award 2025, Best use of AI Technology. What would you automate first? (636) 681-4832\n\n#ArtificialIntelligence #Automation #SmallBusiness",
+    "linkedin": "What’s the most repetitive task in your team’s week?\n\nRe-entering the same data, sorting incoming requests, building the same report every Friday: that kind of work is where AI and automation earn their keep. As a Managed Intelligence Provider, Simplicity Software builds AI tools into everyday workflows to reduce manual work without adding headcount. We received the MSP Award 2025 for Best use of AI Technology.\n\nTell us the task in the comments, or call (636) 681-4832.\n\n#ArtificialIntelligence #Automation #SmallBusiness #ManagedServices"
+   },
+   "estado_base": "pendiente",
+   "id": "P11",
+   "semana": "Adds 11-09-2026 a 11-15-2026",
+   "tipo": "animacion",
+   "titulo": "Hand the busywork to AI.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P12/v1-1.jpg",
+     "thumb": "media/simplicity/P12/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P12/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Planning next year’s budget? Put IT on the list. We help growing businesses map out a technology roadmap, with IT costs they can plan around. Schedule a consultation: (636) 681-4832.\n\n#ITPlanning #BusinessPlanning #SmallBusiness",
+    "linkedin": "Is IT on the list for next year’s budget?\n\nA planning conversation now can cover questions like these: which equipment is due for replacement, which licenses renew when, what security work matters most, and where software or AI could save time.\n\nSimplicity Software helps growing businesses with technology strategy and IT planning: a roadmap tied to your business goals, and IT costs you can plan around.\n\nSchedule a consultation: (636) 681-4832 · simplicitysoftwarellc.com\n\n#ITPlanning #BusinessPlanning #SmallBusiness #ManagedServices"
+   },
+   "estado_base": "pendiente",
+   "id": "P12",
+   "semana": "Adds 11-09-2026 a 11-15-2026",
+   "tipo": "imagen",
+   "titulo": "Plan next year’s IT before it starts",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P13/v1-1.jpg",
+     "thumb": "media/simplicity/P13/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P13/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Last day, last login. When someone leaves, block their sign-in, collect devices and keys, forward their email and hand off their files. Need a hand? (636) 681-4832\n\n#Cybersecurity #Microsoft365 #SmallBusiness",
+    "linkedin": "When someone leaves your team, their access should leave with them.\n\nA short check-out routine covers the basics:\n1. Block their sign-in to email and work apps on their last day.\n2. Collect laptops and keys, and remove company data from their phone.\n3. Forward their email so customers still reach someone.\n4. Share their files and mailbox with whoever takes over their work.\n\nMicrosoft 365 has built-in tools for the account steps. If you’d like a hand setting up the routine, call Simplicity Software at (636) 681-4832.\n\n#Cybersecurity #Microsoft365 #SmallBusiness #ITSupport"
+   },
+   "estado_base": "pendiente",
+   "id": "P13",
+   "semana": "Adds 11-16-2026 a 11-22-2026",
+   "tipo": "imagen",
+   "titulo": "Last day, last login.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350 · 9.6 s",
+     "formato": "4:5",
+     "poster": "media/simplicity/P14/v1-1.poster.jpg",
+     "src": "media/simplicity/P14/v1-1.mp4",
+     "thumb": "media/simplicity/P14/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/P14/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "“Remind me later” isn’t an update plan. Many updates fix security risks, so we manage them centrally across your team’s computers and phones. (636) 681-4832\n\n#ManagedServices #Cybersecurity #SmallBusiness",
+    "linkedin": "Who installs the updates on your team’s computers? If the honest answer is “each person, whenever they get to it,” some updates wait longer than they should.\n\nThat matters, because many software updates are made to fix security risks.\n\nWith Simplicity Software’s managed services, updates are managed centrally across your team’s computers and phones, so they don’t depend on anyone remembering to click “Install.”\n\nFocus on your business while we handle your technology. (636) 681-4832 · simplicitysoftwarellc.com\n\n#ManagedServices #Cybersecurity #ITSupport #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P14",
+   "semana": "Adds 11-16-2026 a 11-22-2026",
+   "tipo": "animacion",
+   "titulo": "“Remind me later” isn’t an update plan.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P15/v1-1.jpg",
+     "thumb": "media/simplicity/P15/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P15/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Do your apps talk to each other? If your team types the same data into two systems, a custom integration can connect them. Call (636) 681-4832.\n\n#CustomSoftware #Automation #SmallBusiness",
+    "linkedin": "How many times does the same order, customer or invoice get typed into a different system?\n\nWhen systems aren’t connected, people become the connection: copy, paste, check, repeat. Simplicity Software builds custom integrations that connect the software you already use, so information entered in one place can reach the others and your team spends less time retyping.\n\nWhich two systems would you connect first? Tell us: (636) 681-4832 · simplicitysoftwarellc.com\n\n#CustomSoftware #Automation #SmallBusiness #SoftwareDevelopment"
+   },
+   "estado_base": "pendiente",
+   "id": "P15",
+   "semana": "Adds 11-16-2026 a 11-22-2026",
+   "tipo": "imagen",
+   "titulo": "Do your apps talk to each other?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P16/v1-1.jpg",
+     "thumb": "media/simplicity/P16/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P16/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Where’s the latest version? In Microsoft 365, your team can work on one shared file and restore older versions from its history. Need a hand setting it up? (636) 681-4832\n\n#Microsoft365 #SmallBusiness #Productivity",
+    "linkedin": "“Final.” “Final v2.” “Final, really.” Sound familiar?\n\nWhen a document travels back and forth as an email attachment, every reply can add another copy, and the team ends up comparing versions instead of getting on with the work. Microsoft 365 offers a calmer way: keep one shared file in OneDrive or SharePoint, edit it together in real time, and use version history to restore an older version if you need it.\n\nSimplicity Software provides management and support for Microsoft 365. Want help setting up shared files for your team? (636) 681-4832\n\n#Microsoft365 #Collaboration #SmallBusiness #Productivity"
+   },
+   "estado_base": "pendiente",
+   "id": "P16",
+   "semana": "Adds 11-23-2026 a 11-29-2026",
+   "tipo": "imagen",
+   "titulo": "Where’s the latest version?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P17/v1-1.jpg",
+     "thumb": "media/simplicity/P17/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P17/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Thinking about AI? Know where it helps before you invest. An AI readiness assessment finds the opportunities and maps where to begin. Schedule an AI consultation: (636) 681-4832.\n\n#ArtificialIntelligence #Automation #SmallBusiness",
+    "linkedin": "AI is everywhere right now. For a business owner, the useful question is smaller: where would it actually help us?\n\nAn AI readiness assessment evaluates where your business stands today, identifies the opportunities for AI and automation, and maps where to begin, so your first project starts from a plan instead of a guess. From there, Simplicity Software can build the roadmap and the tools. We received the MSP Award 2025 for Best use of AI Technology.\n\nPlanning for next year? Schedule an AI consultation: (636) 681-4832 · simplicitysoftwarellc.com\n\n#ArtificialIntelligence #Automation #SmallBusiness #BusinessPlanning"
+   },
+   "estado_base": "pendiente",
+   "id": "P17",
+   "semana": "Adds 11-23-2026 a 11-29-2026",
+   "tipo": "imagen",
+   "titulo": "Know where AI helps before you invest.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P18/v1-1.jpg",
+     "thumb": "media/simplicity/P18/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P18/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "To our clients: thank you for trusting us with your technology. Happy Thanksgiving from all of us at Simplicity Software. If anything comes up over the holiday, we’re here 24/7: (636) 681-4832.\n\n#Thanksgiving #SmallBusiness #ChesterfieldMO",
+    "linkedin": "This week, we’re grateful for the people behind every request, project and phone call: our clients.\n\nThank you for trusting Simplicity Software with your technology, and for letting us work as an extension of your team. Serving more than 500 clients has been a privilege we don’t take lightly.\n\nHappy Thanksgiving to you and yours. If anything comes up over the holiday, you can reach us 24/7 at (636) 681-4832.\n\n#Thanksgiving #SmallBusiness #ManagedServices #ChesterfieldMO"
+   },
+   "estado_base": "pendiente",
+   "id": "P18",
+   "semana": "Adds 11-23-2026 a 11-29-2026",
+   "tipo": "imagen",
+   "titulo": "Thank you.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P19/v1-1.jpg",
+     "thumb": "media/simplicity/P19/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P19/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "New bank details? Call before you pay. If a vendor asks to change where you send money, call the number you have on file, not the one in the email.\n\n#Cybersecurity #ScamAwareness #SmallBusiness",
+    "linkedin": "An email from a regular vendor says their bank details have changed. The invoice looks right. What should your team do?\n\nPause, and call the vendor at the number you have on file, not one from the email or the invoice. The FBI’s Internet Crime Complaint Center advises verifying any request to change account information through a second channel, and the Federal Trade Commission recommends clear procedures for approving invoices. It helps to agree, as a team, who signs off on a payment change before money goes out.\n\nWith year-end invoices arriving, a quick call is worth it. Questions? (636) 681-4832\n\n#Cybersecurity #ScamAwareness #SmallBusiness #AccountsPayable"
+   },
+   "estado_base": "pendiente",
+   "id": "P19",
+   "semana": "Adds 11-30-2026 a 12-06-2026",
+   "tipo": "imagen",
+   "titulo": "New bank details? Call before you pay.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P20/v1-1.jpg",
+     "thumb": "media/simplicity/P20/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P20/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Your year, on one page. Power BI dashboards show sales, budget and cash flow at a glance, and we help you set them up. Call (636) 681-4832.\n\n#PowerBI #SmallBusiness #Microsoft",
+    "linkedin": "When someone asks how this year went, how many reports do you have to open?\n\nPower BI, from Microsoft, brings numbers from the places you already keep them into one dashboard. It’s a single page that shows your most important figures at a glance, like sales, budget versus actual and cash flow. It updates as the data changes.\n\nSimplicity Software helps businesses set up Power BI, from licensing to the first dashboard. Heading into 2027 planning? Let’s look at your numbers together: (636) 681-4832 · simplicitysoftwarellc.com\n\n#PowerBI #BusinessIntelligence #SmallBusiness #Microsoft"
+   },
+   "estado_base": "pendiente",
+   "id": "P20",
+   "semana": "Adds 11-30-2026 a 12-06-2026",
+   "tipo": "imagen",
+   "titulo": "Your year, on one page.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P21/v1-1.jpg",
+     "thumb": "media/simplicity/P21/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P21/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Hiring for the new year? Have their account, license and laptop ready before day one. We can help set it up: (636) 681-4832.\n\n#Onboarding #ITSupport #SmallBusiness",
+    "linkedin": "Bringing someone new on board in January? A good first day starts before they arrive.\n\nDay one goes smoother with a few things ready in advance: a user account and email, the right Microsoft 365 license, a laptop that’s set up, updated and secured, and a short walkthrough of the tools. Simplicity Software’s help desk handles device setup, software and licensing, and user training, so your new hire can start working instead of waiting.\n\nHiring for the new year? Let’s plan their setup: (636) 681-4832\n\n#Onboarding #Microsoft365 #ITSupport #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P21",
+   "semana": "Adds 11-30-2026 a 12-06-2026",
+   "tipo": "imagen",
+   "titulo": "Hiring for the new year?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350 · 9.6 s",
+     "formato": "4:5",
+     "poster": "media/simplicity/P22/v1-1.poster.jpg",
+     "src": "media/simplicity/P22/v1-1.mp4",
+     "thumb": "media/simplicity/P22/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/P22/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Traveling for the holidays with a work laptop? Keep it with you, not in checked bags. Leaving it in the car? Lock it in the trunk. Safe travels.\n\n#Cybersecurity #SmallBusiness #HolidayTravel",
+    "linkedin": "Is a work laptop coming along on someone’s holiday trip? Two habits from the Federal Trade Commission’s guidance for businesses are worth sharing before the break.\n\nFirst, keep it with you: laptops shouldn’t go in checked luggage unless airport security says so. Second, don’t leave it visible in a car. If it has to stay in the car, lock it in the trunk.\n\nQuestions about your team’s laptops? Call Simplicity Software at (636) 681-4832. Safe travels.\n\n#Cybersecurity #RemoteWork #SmallBusiness #ITSupport"
+   },
+   "estado_base": "pendiente",
+   "id": "P22",
+   "semana": "Adds 12-07-2026 a 12-13-2026",
+   "tipo": "animacion",
+   "titulo": "Work laptop coming along for the holidays?",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P23/v1-1.jpg",
+     "thumb": "media/simplicity/P23/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P23/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "We test the restore, not just the backup. Automated backups plus regular restore tests, so your files can come back when you need them. (636) 681-4832\n\n#DataBackup #BusinessContinuity #SmallBusiness",
+    "linkedin": "Before the office goes quiet for the holidays, one question: has anyone checked that your backups can actually be restored?\n\nA backup only helps if the restore works. That’s why Simplicity Software’s backup service includes regular testing and verification of backup data. Backups run automatically on a schedule, and point-in-time recovery means files can be brought back from before a problem started.\n\nWant your backups checked before the year ends? Ask about a backup assessment: (636) 681-4832\n\n#DataBackup #BusinessContinuity #ManagedServices #SmallBusiness"
+   },
+   "estado_base": "pendiente",
+   "id": "P23",
+   "semana": "Adds 12-07-2026 a 12-13-2026",
+   "tipo": "imagen",
+   "titulo": "We test the restore, not just the backup.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P24/v1-1.jpg",
+     "thumb": "media/simplicity/P24/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P24/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Out of office. Not out of reach. Email acting up on the road, or can’t connect from a relative’s house? Our 24/7 support stays on through the holidays: (636) 681-4832.\n\n#ITSupport #SmallBusiness #HolidaySeason",
+    "linkedin": "Out of office. Not out of reach.\n\nOver the holidays, many teams take time off and work from wherever they are. If someone’s email stops working on the road, or they can’t connect to the office from a relative’s house, it doesn’t have to wait until January. Simplicity Software provides full 24/7 support, through the holidays.\n\nWherever the holidays take your team, we’re a call away: (636) 681-4832.\n\n#ITSupport #ManagedServices #SmallBusiness #HolidaySeason"
+   },
+   "estado_base": "pendiente",
+   "id": "P24",
+   "semana": "Adds 12-07-2026 a 12-13-2026",
+   "tipo": "imagen",
+   "titulo": "Out of office. Not out of reach.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P25/v1-1.jpg",
+     "thumb": "media/simplicity/P25/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P25/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Share the inbox, not the sign-in. A shared mailbox in Microsoft 365 lets several people answer one address, each from their own account. Want a hand setting one up? (636) 681-4832\n\n#Microsoft365 #SmallBusiness #ITSupport",
+    "linkedin": "Does more than one person on your team sign in to the same email account?\n\nWith a shared mailbox in Microsoft 365, they don’t have to. Several people can read and answer one address, like a general company inbox, a support address or the front desk, and each person works from their own account. Microsoft recommends keeping direct sign-in to the shared mailbox blocked.\n\nIt helps over the holidays, too: when someone is out, the rest of the team can still see what comes in to that address.\n\nSimplicity Software manages and supports Microsoft 365 for growing businesses. Want a hand setting one up? (636) 681-4832\n\n#Microsoft365 #SmallBusiness #Cybersecurity #ITSupport"
+   },
+   "estado_base": "pendiente",
+   "id": "P25",
+   "semana": "Adds 12-14-2026 a 12-20-2026",
+   "tipo": "imagen",
+   "titulo": "Share the inbox, not the sign-in.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P26/v1-1.jpg",
+     "thumb": "media/simplicity/P26/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P26/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Holiday shutdown? Plan the upgrades. IT work that needs systems offline can fit the days your office is closed. Let’s plan it: (636) 681-4832\n\n#ManagedServices #ITPlanning #SmallBusiness",
+    "linkedin": "Is your office or plant closing for a few days over the holidays?\n\nThat quiet stretch can be a good window for IT work that needs systems offline, like server maintenance, network changes or replacing older equipment. Scheduled for the days you’re closed, the work stays out of your team’s way.\n\nSimplicity Software helps growing businesses plan that kind of work, carry it out with minimal disruption and keep an eye on systems afterward.\n\nClosing soon? Let’s plan your shutdown week: (636) 681-4832 · simplicitysoftwarellc.com\n\n#ManagedServices #ITPlanning #SmallBusiness #ITSupport"
+   },
+   "estado_base": "pendiente",
+   "id": "P26",
+   "semana": "Adds 12-14-2026 a 12-20-2026",
+   "tipo": "imagen",
+   "titulo": "Holiday shutdown? Plan the upgrades.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350 · 9.6 s",
+     "formato": "4:5",
+     "poster": "media/simplicity/P27/v1-1.poster.jpg",
+     "src": "media/simplicity/P27/v1-1.mp4",
+     "thumb": "media/simplicity/P27/v1-1.thumb.jpg",
+     "tipo": "video",
+     "web": "media/simplicity/P27/v1-1.mp4"
+    }
+   ],
+   "copy": {
+    "facebook": "Start with one app. Add the next when you’re ready. Dynamics 365 apps for sales, customer service and finance work together, and we plan the setup and train your team. (636) 681-4832\n\n#Dynamics365 #Microsoft #SmallBusiness",
+    "linkedin": "Big software projects don’t have to start big.\n\nMicrosoft Dynamics 365 is a family of business apps for sales, customer service, marketing, finance, supply chain and human resources, built to work together. You can start with the app you need most and add others as the business grows.\n\nSimplicity Software handles Dynamics 365 licensing and implementation. We look at how you work today, plan the setup, configure it and train your team.\n\nWhich app would you start with? (636) 681-4832 · simplicitysoftwarellc.com\n\n#Dynamics365 #Microsoft #SmallBusiness #BusinessGrowth"
+   },
+   "estado_base": "pendiente",
+   "id": "P27",
+   "semana": "Adds 12-14-2026 a 12-20-2026",
+   "tipo": "animacion",
+   "titulo": "Start with one app. Add the next when you’re ready.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P28/v1-1.jpg",
+     "thumb": "media/simplicity/P28/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P28/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "New phone? Reset the old one. Back it up, remove it from your accounts’ trusted devices, then restore its factory settings before it goes. Need work email on the new one? (636) 681-4832\n\n#Cybersecurity #SmallBusiness #ITSupport",
+    "linkedin": "Is a new phone part of your holidays this year? Before the old one is traded in, sold or given away, clear it out.\n\nThe Federal Trade Commission suggests a few steps:\n1. Back up your data.\n2. Take out the SIM card, if it has one.\n3. Remove the phone from the trusted devices on your accounts, if you use two-step sign-in.\n4. Restore its factory settings to erase what’s on it.\n\nOn the new phone, set it to lock automatically, keep it up to date, and set up your authenticator app if you use one.\n\nMoving work email to the new phone? Our help desk can set it up: (636) 681-4832\n\n#Cybersecurity #MobileSecurity #SmallBusiness #ITSupport"
+   },
+   "estado_base": "pendiente",
+   "id": "P28",
+   "semana": "Adds 12-21-2026 a 12-27-2026",
+   "tipo": "imagen",
+   "titulo": "New phone? Reset the old one.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P29/v1-1.jpg",
+     "thumb": "media/simplicity/P29/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P29/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Happy holidays from all of us at Simplicity Software. However you celebrate, we wish you a restful season and a bright new year.\n\n#HappyHolidays #SmallBusiness #ChesterfieldMO",
+    "linkedin": "Happy holidays from all of us at Simplicity Software.\n\nHowever you celebrate, we hope the season brings you rest, good company and time with the people who matter most. Wishing you a bright new year.\n\n#HappyHolidays #SmallBusiness #ChesterfieldMO"
+   },
+   "estado_base": "pendiente",
+   "id": "P29",
+   "semana": "Adds 12-21-2026 a 12-27-2026",
+   "tipo": "imagen",
+   "titulo": "Happy holidays",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Feed 4:5 · 1080×1350",
+     "formato": "4:5",
+     "src": "media/simplicity/P30/v1-1.jpg",
+     "thumb": "media/simplicity/P30/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P30/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "A resolution worth keeping: a different password for every account. A password manager creates and stores them, so each person remembers just one. Want a hand setting it up? (636) 681-4832\n\n#Cybersecurity #SmallBusiness #NewYear",
+    "linkedin": "One IT resolution worth making for 2027: a different password for every account.\n\nAttackers try stolen passwords on other sites to see if they work, so a password used in several places can open more than one door. The Cybersecurity and Infrastructure Security Agency recommends passwords of at least 16 characters, each used for only one account, and a company-wide password manager. It creates the passwords, fills them in and stores them securely, so each person only needs to remember one strong master password.\n\nWant a hand setting one up for your team? Call Simplicity Software at (636) 681-4832.\n\n#Cybersecurity #PasswordSecurity #SmallBusiness #NewYear"
+   },
+   "estado_base": "pendiente",
+   "id": "P30",
+   "semana": "Adds 12-28-2026 a 01-03-2027",
+   "tipo": "imagen",
+   "titulo": "A different password for every account.",
+   "version": 1
+  },
+  {
+   "archivos": [
+    {
+     "etiqueta": "Square 1:1 · 1080×1080",
+     "formato": "1:1",
+     "src": "media/simplicity/P31/v1-1.jpg",
+     "thumb": "media/simplicity/P31/v1-1.thumb.jpg",
+     "tipo": "image",
+     "web": "media/simplicity/P31/v1-1.web.jpg"
+    }
+   ],
+   "copy": {
+    "facebook": "Which tech headache should stay in 2026? Printer trouble, slow computers, spotty Wi-Fi or email glitches? Tell us in the comments. Happy New Year.\n\n#SmallBusiness #ITSupport #NewYear",
+    "linkedin": "Before the year ends, a quick question: which tech headache would you like to leave behind in 2026?\n\nPrinter trouble, slow computers, spotty Wi-Fi or email glitches. Pick one, or add your own, in the comments.\n\nOur help desk handles all four, and we’d be glad to help you start 2027 with fewer of them. Happy New Year from all of us at Simplicity Software.\n\n#SmallBusiness #ITSupport #HelpDesk #NewYear"
+   },
+   "estado_base": "pendiente",
+   "id": "P31",
+   "semana": "Adds 12-28-2026 a 01-03-2027",
+   "tipo": "imagen",
+   "titulo": "Which tech headache should stay in 2026?",
+   "version": 1
+  }
+ ]
+}
